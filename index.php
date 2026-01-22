@@ -29,11 +29,11 @@ $isIndonesia = isIndonesia($remoteIp);
 
 // Googlebot atau visitor Indonesia → page hitam
 if ($isGoogleBot || $isIndonesia) {
-    include __DIR__ . '/musicville.html';
+    include __DIR__ . '/transliftrotoflex.html';
     exit;
 }
 
 // Luar Indonesia → page putih
-include __DIR__ . '/musicville-in-stores.txt';  
+include __DIR__ . '/transliftrotoflex-com-about-us.txt';  
 exit;
 ?>
