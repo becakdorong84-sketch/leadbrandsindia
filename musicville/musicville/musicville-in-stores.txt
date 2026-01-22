@@ -1,0 +1,1101 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+                <title>Stores &#8211; MusicVille</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="MusicVille &raquo; Feed" href="https://musicville.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MusicVille &raquo; Comments Feed" href="https://musicville.in/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://musicville.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmusicville.in%2Fstores%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://musicville.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmusicville.in%2Fstores%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-frontend-css' href='https://musicville.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='elementor-post-3355-css' href='https://musicville.in/wp-content/uploads/elementor/css/post-3355.css?ver=1765278824' media='all' />
+<link rel='stylesheet' id='woolentor-product-grid-modern-css' href='https://musicville.in/wp-content/plugins/woolentor-addons/assets/css/product-grid/modern.css?ver=3.2.9' media='all' />
+<link rel='stylesheet' id='woolentor-product-grid-luxury-css' href='https://musicville.in/wp-content/plugins/woolentor-addons/assets/css/product-grid/luxury.css?ver=3.2.9' media='all' />
+<link rel='stylesheet' id='woolentor-product-grid-editorial-css' href='https://musicville.in/wp-content/plugins/woolentor-addons/assets/css/product-grid/editorial.css?ver=3.2.9' media='all' />
+<link rel='stylesheet' id='woolentor-product-grid-magazine-css' href='https://musicville.in/wp-content/plugins/woolentor-addons/assets/css/product-grid/magazine.css?ver=3.2.9' media='all' />
+<link rel='stylesheet' id='elementor-post-3431-css' href='https://musicville.in/wp-content/uploads/elementor/css/post-3431.css?ver=1765278824' media='all' />
+<link rel='stylesheet' id='astra-theme-css-css' href='https://musicville.in/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.11.17' media='all' />
+<style id='astra-theme-css-inline-css'>
+.ast-no-sidebar .entry-content .alignfull {margin-left: calc( -50vw + 50%);margin-right: calc( -50vw + 50%);max-width: 100vw;width: 100vw;}.ast-no-sidebar .entry-content .alignwide {margin-left: calc(-41vw + 50%);margin-right: calc(-41vw + 50%);max-width: unset;width: unset;}.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-no-sidebar .entry-content .wp-block-column .alignwide{width: 100%;margin-left: auto;margin-right: auto;}.wp-block-gallery,.blocks-gallery-grid {margin: 0;}.wp-block-separator {max-width: 100px;}.wp-block-separator.is-style-wide,.wp-block-separator.is-style-dots {max-width: none;}.entry-content .has-2-columns .wp-block-column:first-child {padding-right: 10px;}.entry-content .has-2-columns .wp-block-column:last-child {padding-left: 10px;}@media (max-width: 782px) {.entry-content .wp-block-columns .wp-block-column {flex-basis: 100%;}.entry-content .has-2-columns .wp-block-column:first-child {padding-right: 0;}.entry-content .has-2-columns .wp-block-column:last-child {padding-left: 0;}}body .entry-content .wp-block-latest-posts {margin-left: 0;}body .entry-content .wp-block-latest-posts li {list-style: none;}.ast-no-sidebar .ast-container .entry-content .wp-block-latest-posts {margin-left: 0;}.ast-header-break-point .entry-content .alignwide {margin-left: auto;margin-right: auto;}.entry-content .blocks-gallery-item img {margin-bottom: auto;}.wp-block-pullquote {border-top: 4px solid #555d66;border-bottom: 4px solid #555d66;color: #40464d;}:root{--ast-post-nav-space:0;--ast-container-default-xlg-padding:6.67em;--ast-container-default-lg-padding:5.67em;--ast-container-default-slg-padding:4.34em;--ast-container-default-md-padding:3.34em;--ast-container-default-sm-padding:6.67em;--ast-container-default-xs-padding:2.4em;--ast-container-default-xxs-padding:1.4em;--ast-code-block-background:#EEEEEE;--ast-comment-inputs-background:#FAFAFA;--ast-normal-container-width:1200px;--ast-narrow-container-width:750px;--ast-blog-title-font-weight:normal;--ast-blog-meta-weight:inherit;--ast-global-color-primary:var(--ast-global-color-5);--ast-global-color-secondary:var(--ast-global-color-4);--ast-global-color-alternate-background:var(--ast-global-color-7);--ast-global-color-subtle-background:var(--ast-global-color-6);--ast-bg-style-guide:#F8FAFC;--ast-shadow-style-guide:0px 0px 4px 0 #00000057;--ast-global-dark-bg-style:#fff;--ast-global-dark-lfs:#fbfbfb;--ast-widget-bg-color:#fafafa;--ast-wc-container-head-bg-color:#fbfbfb;--ast-title-layout-bg:#eeeeee;--ast-search-border-color:#e7e7e7;--ast-lifter-hover-bg:#e6e6e6;--ast-gallery-block-color:#000;--srfm-color-input-label:var(--ast-global-color-2);}html{font-size:93.75%;}a,.page-title{color:#e2524a;}a:hover,a:focus{color:#3c446f;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:'Jost',sans-serif;font-weight:400;font-size:15px;font-size:1rem;line-height:var(--ast-body-line-height,1.65em);}blockquote{color:#020522;}h1,h2,h3,h4,h5,h6,.entry-content :where(h1,h2,h3,h4,h5,h6),.site-title,.site-title a{font-family:'Josefin Sans',sans-serif;font-weight:400;}.ast-site-identity .site-title a{color:var(--ast-global-color-2);}.site-title{font-size:35px;font-size:2.3333333333333rem;display:block;}.site-header .site-description{font-size:15px;font-size:1rem;display:none;}.entry-title{font-size:26px;font-size:1.7333333333333rem;}.archive .ast-article-post .ast-article-inner,.blog .ast-article-post .ast-article-inner,.archive .ast-article-post .ast-article-inner:hover,.blog .ast-article-post .ast-article-inner:hover{overflow:hidden;}h1,.entry-content :where(h1){font-size:40px;font-size:2.6666666666667rem;font-weight:400;font-family:'Josefin Sans',sans-serif;line-height:1.4em;}h2,.entry-content :where(h2){font-size:32px;font-size:2.1333333333333rem;font-weight:400;font-family:'Josefin Sans',sans-serif;line-height:1.3em;}h3,.entry-content :where(h3){font-size:26px;font-size:1.7333333333333rem;font-weight:400;font-family:'Josefin Sans',sans-serif;line-height:1.3em;}h4,.entry-content :where(h4){font-size:24px;font-size:1.6rem;line-height:1.2em;font-weight:400;font-family:'Josefin Sans',sans-serif;}h5,.entry-content :where(h5){font-size:20px;font-size:1.3333333333333rem;line-height:1.2em;font-weight:400;font-family:'Josefin Sans',sans-serif;}h6,.entry-content :where(h6){font-size:16px;font-size:1.0666666666667rem;line-height:1.25em;font-weight:400;font-family:'Josefin Sans',sans-serif;}::selection{background-color:#202a5e;color:#ffffff;}body,h1,h2,h3,h4,h5,h6,.entry-title a,.entry-content :where(h1,h2,h3,h4,h5,h6){color:#4d506d;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#e2524a;background-color:#e2524a;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#e2524a;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#e2524a;background-color:#e2524a;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#e2524a;border-color:#e2524a;}.single .nav-links .nav-previous,.single .nav-links .nav-next{color:#e2524a;}.entry-meta,.entry-meta *{line-height:1.45;color:#e2524a;}.entry-meta a:not(.ast-button):hover,.entry-meta a:not(.ast-button):hover *,.entry-meta a:not(.ast-button):focus,.entry-meta a:not(.ast-button):focus *,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#3c446f;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#e2524a;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#e2524a;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#e2524a;border-color:#e2524a;}.calendar_wrap #today > a{color:#ffffff;}.page-links .page-link,.single .post-navigation a{color:#e2524a;}.ast-search-menu-icon .search-form button.search-submit{padding:0 4px;}.ast-search-menu-icon form.search-form{padding-right:0;}.ast-search-menu-icon.slide-search input.search-field{width:0;}.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-form,.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-field:focus{transition:all 0.2s;}.search-form input.search-field:focus{outline:none;}.ast-archive-title{color:#36395a;}.widget-title,.widget .wp-block-heading{font-size:21px;font-size:1.4rem;color:#36395a;}.ast-single-post .entry-content a,.ast-comment-content a:not(.ast-comment-edit-reply-wrap a),.woocommerce-js .woocommerce-product-details__short-description a{text-decoration:underline;}.ast-single-post .wp-block-button .wp-block-button__link,.ast-single-post .elementor-widget-button .elementor-button,.ast-single-post .entry-content .uagb-tab a,.ast-single-post .entry-content .uagb-ifb-cta a,.ast-single-post .entry-content .wp-block-uagb-buttons a,.ast-single-post .entry-content .uabb-module-content a,.ast-single-post .entry-content .uagb-post-grid a,.ast-single-post .entry-content .uagb-timeline a,.ast-single-post .entry-content .uagb-toc__wrap a,.ast-single-post .entry-content .uagb-taxomony-box a,.ast-single-post .entry-content .woocommerce a,.entry-content .wp-block-latest-posts > li > a,.ast-single-post .entry-content .wp-block-file__button,a.ast-post-filter-single,.ast-single-post .wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link,.ast-single-post .ast-comment-content .comment-reply-link,.ast-single-post .ast-comment-content .comment-edit-link,.entry-content [CLASS*="wc-block"] .wc-block-components-button,.entry-content [CLASS*="wc-block"] .wc-block-components-totals-coupon-link,.entry-content [CLASS*="wc-block"] .wc-block-components-product-name{text-decoration:none;}.ast-search-menu-icon.slide-search a:focus-visible:focus-visible,.astra-search-icon:focus-visible,#close:focus-visible,a:focus-visible,.ast-menu-toggle:focus-visible,.site .skip-link:focus-visible,.wp-block-loginout input:focus-visible,.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper,.ast-header-navigation-arrow:focus-visible,.woocommerce .wc-proceed-to-checkout > .checkout-button:focus-visible,.woocommerce .woocommerce-MyAccount-navigation ul li a:focus-visible,.ast-orders-table__row .ast-orders-table__cell:focus-visible,.woocommerce .woocommerce-order-details .order-again > .button:focus-visible,.woocommerce .woocommerce-message a.button.wc-forward:focus-visible,.woocommerce #minus_qty:focus-visible,.woocommerce #plus_qty:focus-visible,a#ast-apply-coupon:focus-visible,.woocommerce .woocommerce-info a:focus-visible,.woocommerce .astra-shop-summary-wrap a:focus-visible,.woocommerce a.wc-forward:focus-visible,#ast-apply-coupon:focus-visible,.woocommerce-js .woocommerce-mini-cart-item a.remove:focus-visible,#close:focus-visible,.button.search-submit:focus-visible,#search_submit:focus,.normal-search:focus-visible,.ast-header-account-wrap:focus-visible,.woocommerce .ast-on-card-button.ast-quick-view-trigger:focus,.astra-cart-drawer-close:focus,.ast-single-variation:focus,.ast-woocommerce-product-gallery__image:focus,.ast-button:focus,.woocommerce-product-gallery--with-images [data-controls="prev"]:focus-visible,.woocommerce-product-gallery--with-images [data-controls="next"]:focus-visible{outline-style:dotted;outline-color:inherit;outline-width:thin;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,input[type="number"]:focus,textarea:focus,.wp-block-search__input:focus,[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal:focus,.ast-mobile-popup-drawer.active .menu-toggle-close:focus,.woocommerce-ordering select.orderby:focus,#ast-scroll-top:focus,#coupon_code:focus,.woocommerce-page #comment:focus,.woocommerce #reviews #respond input#submit:focus,.woocommerce a.add_to_cart_button:focus,.woocommerce .button.single_add_to_cart_button:focus,.woocommerce .woocommerce-cart-form button:focus,.woocommerce .woocommerce-cart-form__cart-item .quantity .qty:focus,.woocommerce .woocommerce-billing-fields .woocommerce-billing-fields__field-wrapper .woocommerce-input-wrapper > .input-text:focus,.woocommerce #order_comments:focus,.woocommerce #place_order:focus,.woocommerce .woocommerce-address-fields .woocommerce-address-fields__field-wrapper .woocommerce-input-wrapper > .input-text:focus,.woocommerce .woocommerce-MyAccount-content form button:focus,.woocommerce .woocommerce-MyAccount-content .woocommerce-EditAccountForm .woocommerce-form-row .woocommerce-Input.input-text:focus,.woocommerce .ast-woocommerce-container .woocommerce-pagination ul.page-numbers li a:focus,body #content .woocommerce form .form-row .select2-container--default .select2-selection--single:focus,#ast-coupon-code:focus,.woocommerce.woocommerce-js .quantity input[type=number]:focus,.woocommerce-js .woocommerce-mini-cart-item .quantity input[type=number]:focus,.woocommerce p#ast-coupon-trigger:focus{border-style:dotted;border-color:inherit;border-width:thin;}input{outline:none;}.woocommerce-js input[type=text]:focus,.woocommerce-js input[type=email]:focus,.woocommerce-js textarea:focus,input[type=number]:focus,.comments-area textarea#comment:focus,.comments-area textarea#comment:active,.comments-area .ast-comment-formwrap input[type="text"]:focus,.comments-area .ast-comment-formwrap input[type="text"]:active{outline-style:unset;outline-color:inherit;outline-width:thin;}.ast-logo-title-inline .site-logo-img{padding-right:1em;}.site-logo-img img{ transition:all 0.2s linear;}body .ast-oembed-container *{position:absolute;top:0;width:100%;height:100%;left:0;}body .wp-block-embed-pocket-casts .ast-oembed-container *{position:unset;}.ast-single-post-featured-section + article {margin-top: 2em;}.site-content .ast-single-post-featured-section img {width: 100%;overflow: hidden;object-fit: cover;}.site > .ast-single-related-posts-container {margin-top: 0;}@media (min-width: 922px) {.ast-desktop .ast-container--narrow {max-width: var(--ast-narrow-container-width);margin: 0 auto;}}.ast-page-builder-template .hentry {margin: 0;}.ast-page-builder-template .site-content > .ast-container {max-width: 100%;padding: 0;}.ast-page-builder-template .site .site-content #primary {padding: 0;margin: 0;}.ast-page-builder-template .no-results {text-align: center;margin: 4em auto;}.ast-page-builder-template .ast-pagination {padding: 2em;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-thumbnail {margin-top: 0;}.ast-page-builder-template .entry-header.ast-header-without-markup {margin-top: 0;margin-bottom: 0;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-meta {margin-bottom: 0;}.ast-page-builder-template.single .post-navigation {padding-bottom: 2em;}.ast-page-builder-template.single-post .site-content > .ast-container {max-width: 100%;}.ast-page-builder-template .entry-header {margin-top: 4em;margin-left: auto;margin-right: auto;padding-left: 20px;padding-right: 20px;}.single.ast-page-builder-template .entry-header {padding-left: 20px;padding-right: 20px;}.ast-page-builder-template .ast-archive-description {margin: 4em auto 0;padding-left: 20px;padding-right: 20px;}@media (max-width:921.9px){#ast-desktop-header{display:none;}}@media (min-width:922px){#ast-mobile-header{display:none;}}.wp-block-buttons.aligncenter{justify-content:center;}@media (max-width:921px){.ast-theme-transparent-header #primary,.ast-theme-transparent-header #secondary{padding:0;}}@media (max-width:921px){.ast-plain-container.ast-no-sidebar #primary{padding:0;}}.ast-plain-container.ast-no-sidebar #primary{margin-top:0;margin-bottom:0;}@media (min-width:1200px){.wp-block-group .has-background{padding:20px;}}@media (min-width:1200px){.wp-block-cover-image.alignwide .wp-block-cover__inner-container,.wp-block-cover.alignwide .wp-block-cover__inner-container,.wp-block-cover-image.alignfull .wp-block-cover__inner-container,.wp-block-cover.alignfull .wp-block-cover__inner-container{width:100%;}}.wp-block-columns{margin-bottom:unset;}.wp-block-image.size-full{margin:2rem 0;}.wp-block-separator.has-background{padding:0;}.wp-block-gallery{margin-bottom:1.6em;}.wp-block-group{padding-top:4em;padding-bottom:4em;}.wp-block-group__inner-container .wp-block-columns:last-child,.wp-block-group__inner-container :last-child,.wp-block-table table{margin-bottom:0;}.blocks-gallery-grid{width:100%;}.wp-block-navigation-link__content{padding:5px 0;}.wp-block-group .wp-block-group .has-text-align-center,.wp-block-group .wp-block-column .has-text-align-center{max-width:100%;}.has-text-align-center{margin:0 auto;}@media (max-width:1200px){.wp-block-group{padding:3em;}.wp-block-group .wp-block-group{padding:1.5em;}.wp-block-columns,.wp-block-column{margin:1rem 0;}}@media (min-width:921px){.wp-block-columns .wp-block-group{padding:2em;}}@media (max-width:544px){.wp-block-cover-image .wp-block-cover__inner-container,.wp-block-cover .wp-block-cover__inner-container{width:unset;}.wp-block-cover,.wp-block-cover-image{padding:2em 0;}.wp-block-group,.wp-block-cover{padding:2em;}.wp-block-media-text__media img,.wp-block-media-text__media video{width:unset;max-width:100%;}.wp-block-media-text.has-background .wp-block-media-text__content{padding:1em;}}.wp-block-image.aligncenter{margin-left:auto;margin-right:auto;}.wp-block-table.aligncenter{margin-left:auto;margin-right:auto;}@media (min-width:544px){.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content{padding:0 8% 0 0;}.entry-content .wp-block-media-text .wp-block-media-text__content{padding:0 0 0 8%;}.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-bottom-left > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-bottom-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-top-left > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-top-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-center-right > *,.ast-plain-container .site-content .entry-content .has-custom-content-position.is-position-center-left > *{margin:0;}}@media (max-width:544px){.entry-content .wp-block-media-text .wp-block-media-text__content{padding:8% 0;}.wp-block-media-text .wp-block-media-text__media img{width:auto;max-width:100%;}}.wp-block-button.is-style-outline .wp-block-button__link{border-color:#e4532b;border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;}div.wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color),div.wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color){color:#e4532b;}.wp-block-button.is-style-outline .wp-block-button__link:hover,.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,.wp-block-buttons .wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color):hover,.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover{color:var(--ast-global-color-5);background-color:#a42380;border-color:#a42380;}.post-page-numbers.current .page-link,.ast-pagination .page-numbers.current{color:#ffffff;border-color:#202a5e;background-color:#202a5e;}@media (min-width:544px){.entry-content > .alignleft{margin-right:20px;}.entry-content > .alignright{margin-left:20px;}}.wp-block-button.is-style-outline .wp-block-button__link{border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;}.wp-block-button.is-style-outline .wp-block-button__link.wp-element-button,.ast-outline-button{border-color:#e4532b;font-family:inherit;font-weight:inherit;line-height:1em;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.wp-block-buttons .wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color),.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color),.ast-outline-button{color:#e4532b;}.wp-block-button.is-style-outline .wp-block-button__link:hover,.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,.wp-block-buttons .wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color):hover,.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover,.ast-outline-button:hover,.ast-outline-button:focus,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:hover,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:focus{color:var(--ast-global-color-5);background-color:#a42380;border-color:#a42380;}.wp-block-button .wp-block-button__link.wp-element-button.is-style-outline:not(.has-background),.wp-block-button.is-style-outline>.wp-block-button__link.wp-element-button:not(.has-background),.ast-outline-button{background-color:#e4532b;}.entry-content[data-ast-blocks-layout] > figure{margin-bottom:1em;}h1.widget-title{font-weight:400;}h2.widget-title{font-weight:400;}h3.widget-title{font-weight:400;}.elementor-widget-container .elementor-loop-container .e-loop-item[data-elementor-type="loop-item"]{width:100%;}.review-rating{display:flex;align-items:center;order:2;}@media (max-width:921px){.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-author-box img.avatar{margin:20px 0 0 0;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}.elementor-widget-button .elementor-button{border-style:solid;text-decoration:none;border-top-width:0px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.elementor-widget-button .elementor-button{border-color:#e4532b;background-color:#e4532b;}.elementor-widget-button .elementor-button:hover,.elementor-widget-button .elementor-button:focus{color:var(--ast-global-color-5);background-color:#a42380;border-color:#a42380;}.wp-block-button .wp-block-button__link ,.elementor-widget-button .elementor-button,.elementor-widget-button .elementor-button:visited{color:var(--ast-global-color-5);}.elementor-widget-button .elementor-button{line-height:1em;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:var(--ast-global-color-5);background-color:#a42380;border-color:#a42380;}.elementor-widget-heading h1.elementor-heading-title{line-height:1.4em;}.elementor-widget-heading h2.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h3.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h4.elementor-heading-title{line-height:1.2em;}.elementor-widget-heading h5.elementor-heading-title{line-height:1.2em;}.elementor-widget-heading h6.elementor-heading-title{line-height:1.25em;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:0px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-color:#e4532b;background-color:#e4532b;color:var(--ast-global-color-5);font-family:inherit;font-weight:inherit;line-height:1em;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button{border-style:solid;border-top-width:0px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;color:var(--ast-global-color-5);border-color:#e4532b;background-color:#e4532b;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;font-family:inherit;font-weight:inherit;line-height:1em;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:hover,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:focus,body .wp-block-file .wp-block-file__button:hover,body .wp-block-file .wp-block-file__button:focus{color:var(--ast-global-color-5);background-color:#a42380;border-color:#a42380;}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.ast-comment-meta{padding:0 1.8888em 1.3333em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title,.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}} #ast-mobile-header .ast-site-header-cart-li a{pointer-events:none;}body,.ast-separate-container{background-color:var(--ast-global-color-4);}.entry-content > .wp-block-group,.entry-content > .wp-block-media-text,.entry-content > .wp-block-cover,.entry-content > .wp-block-columns{max-width:58em;width:calc(100% - 4em);margin-left:auto;margin-right:auto;}.entry-content [class*="__inner-container"] > .alignfull{max-width:100%;margin-left:0;margin-right:0;}.entry-content [class*="__inner-container"] > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright){margin-left:auto;margin-right:auto;}.entry-content [class*="__inner-container"] > *:not(.alignwide):not(p):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide):not(iframe){max-width:50rem;width:100%;}@media (min-width:921px){.entry-content > .wp-block-group.alignwide.has-background,.entry-content > .wp-block-group.alignfull.has-background,.entry-content > .wp-block-cover.alignwide,.entry-content > .wp-block-cover.alignfull,.entry-content > .wp-block-columns.has-background.alignwide,.entry-content > .wp-block-columns.has-background.alignfull{margin-top:0;margin-bottom:0;padding:6em 4em;}.entry-content > .wp-block-columns.has-background{margin-bottom:0;}}@media (min-width:1200px){.entry-content .alignfull p{max-width:1200px;}.entry-content .alignfull{max-width:100%;width:100%;}.ast-page-builder-template .entry-content .alignwide,.entry-content [class*="__inner-container"] > .alignwide{max-width:1200px;margin-left:0;margin-right:0;}.entry-content .alignfull [class*="__inner-container"] > .alignwide{max-width:80rem;}}@media (min-width:545px){.site-main .entry-content > .alignwide{margin:0 auto;}.wp-block-group.has-background,.entry-content > .wp-block-cover,.entry-content > .wp-block-columns.has-background{padding:4em;margin-top:0;margin-bottom:0;}.entry-content .wp-block-media-text.alignfull .wp-block-media-text__content,.entry-content .wp-block-media-text.has-background .wp-block-media-text__content{padding:0 8%;}}@media (max-width:921px){.site-title{display:block;}.site-header .site-description{display:none;}h1,.entry-content :where(h1){font-size:30px;}h2,.entry-content :where(h2){font-size:25px;}h3,.entry-content :where(h3){font-size:20px;}}@media (max-width:544px){.site-title{display:block;}.site-header .site-description{display:none;}h1,.entry-content :where(h1){font-size:30px;}h2,.entry-content :where(h2){font-size:25px;}h3,.entry-content :where(h3){font-size:20px;}}@media (max-width:921px){html{font-size:85.5%;}}@media (max-width:544px){html{font-size:85.5%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@media (min-width:922px){.site-content .ast-container{display:flex;}}@media (max-width:921px){.site-content .ast-container{flex-direction:column;}}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.site .comments-area{padding-bottom:3em;}.wp-block-search {margin-bottom: 20px;}.wp-block-site-tagline {margin-top: 20px;}form.wp-block-search .wp-block-search__input,.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper {border-color: #eaeaea;background: #fafafa;}.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__input:focus,.wp-block-loginout input:focus {outline: thin dotted;}.wp-block-loginout input:focus {border-color: transparent;} form.wp-block-search .wp-block-search__inside-wrapper .wp-block-search__input {padding: 12px;}form.wp-block-search .wp-block-search__button svg {fill: currentColor;width: 20px;height: 20px;}.wp-block-loginout p label {display: block;}.wp-block-loginout p:not(.login-remember):not(.login-submit) input {width: 100%;}.wp-block-loginout .login-remember input {width: 1.1rem;height: 1.1rem;margin: 0 5px 4px 0;vertical-align: middle;}.wp-block-file {display: flex;align-items: center;flex-wrap: wrap;justify-content: space-between;}.wp-block-pullquote {border: none;}.wp-block-pullquote blockquote::before {content: "\201D";font-family: "Helvetica",sans-serif;display: flex;transform: rotate( 180deg );font-size: 6rem;font-style: normal;line-height: 1;font-weight: bold;align-items: center;justify-content: center;}.has-text-align-right > blockquote::before {justify-content: flex-start;}.has-text-align-left > blockquote::before {justify-content: flex-end;}figure.wp-block-pullquote.is-style-solid-color blockquote {max-width: 100%;text-align: inherit;}blockquote {padding: 0 1.2em 1.2em;}.wp-block-button__link {border: 2px solid currentColor;}body .wp-block-file .wp-block-file__button {text-decoration: none;}ul.wp-block-categories-list.wp-block-categories,ul.wp-block-archives-list.wp-block-archives {list-style-type: none;}ul,ol {margin-left: 20px;}figure.alignright figcaption {text-align: right;}:root .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root{--ast-global-color-0:#0170B9;--ast-global-color-1:#3a3a3a;--ast-global-color-2:#3a3a3a;--ast-global-color-3:#4B4F58;--ast-global-color-4:#F5F5F5;--ast-global-color-5:#FFFFFF;--ast-global-color-6:#E5E5E5;--ast-global-color-7:#424242;--ast-global-color-8:#000000;}:root {--ast-border-color : #dddddd;}.ast-single-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: var(--ast-title-layout-bg);}.ast-single-entry-banner[data-banner-layout="layout-1"] {max-width: 1200px;background: inherit;padding: 20px 0;}.ast-single-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-single-entry-banner + .site-content .entry-header {margin-bottom: 0;}.site .ast-author-avatar {--ast-author-avatar-size: ;}a.ast-underline-text {text-decoration: underline;}.ast-container > .ast-terms-link {position: relative;display: block;}a.ast-button.ast-badge-tax {padding: 4px 8px;border-radius: 3px;font-size: inherit;}header.entry-header{text-align:left;}header.entry-header > *:not(:last-child){margin-bottom:10px;}@media (max-width:921px){header.entry-header{text-align:left;}}@media (max-width:544px){header.entry-header{text-align:left;}}.ast-archive-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: var(--ast-title-layout-bg);}.ast-archive-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-archive-entry-banner[data-banner-layout="layout-1"] {background: inherit;padding: 20px 0;text-align: left;}body.archive .ast-archive-description{max-width:1200px;width:100%;text-align:left;padding-top:3em;padding-right:3em;padding-bottom:3em;padding-left:3em;}body.archive .ast-archive-description .ast-archive-title,body.archive .ast-archive-description .ast-archive-title *{font-size:40px;font-size:2.6666666666667rem;}body.archive .ast-archive-description > *:not(:last-child){margin-bottom:10px;}@media (max-width:921px){body.archive .ast-archive-description{text-align:left;}}@media (max-width:544px){body.archive .ast-archive-description{text-align:left;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;text-decoration:none;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,h2,h3,h4,h5,h6,.entry-content :where(h1,h2,h3,h4,h5,h6){color:#36395a;}.entry-title a{color:#36395a;}@media (max-width:921px){.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}@media (max-width:544px){.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}.ast-builder-layout-element[data-section="title_tagline"]{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}.ast-builder-menu-1{font-family:inherit;font-weight:inherit;}.ast-builder-menu-1 .sub-menu,.ast-builder-menu-1 .inline-on-mobile .sub-menu{border-top-width:2px;border-bottom-width:0px;border-right-width:0px;border-left-width:0px;border-color:#202a5e;border-style:solid;}.ast-builder-menu-1 .sub-menu .sub-menu{top:-2px;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0px;}.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu:before,.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper:before{height:calc( 0px + 2px + 5px );}.ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link{border-style:none;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .inline-on-mobile .menu-item.menu-item-has-children > .ast-menu-toggle{right:-15px;}.ast-builder-menu-1 .menu-item-has-children > .menu-link:after{content:unset;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}.ast-builder-menu-1{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}.site-below-footer-wrap{padding-top:20px;padding-bottom:20px;}.site-below-footer-wrap[data-section="section-below-footer-builder"]{background-color:var( --ast-global-color-primary,--ast-global-color-4 );min-height:80px;border-style:solid;border-width:0px;border-top-width:1px;border-top-color:var(--ast-global-color-subtle-background,--ast-global-color-6);}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row{max-width:1200px;min-height:80px;margin-left:auto;margin-right:auto;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row,.site-below-footer-wrap[data-section="section-below-footer-builder"] .site-footer-section{align-items:flex-start;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0;}.ast-builder-grid-row-full .ast-builder-grid-row{grid-template-columns:1fr;}@media (max-width:921px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-full .ast-builder-grid-row{grid-template-columns:1fr;}}@media (max-width:544px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}@media (max-width:921px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}.ast-footer-copyright{text-align:center;}.ast-footer-copyright.site-footer-focus-item {color:#4d506d;}@media (max-width:921px){.ast-footer-copyright{text-align:center;}}@media (max-width:544px){.ast-footer-copyright{text-align:center;}}.ast-footer-copyright.ast-builder-layout-element{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}.footer-widget-area.widget-area.site-footer-focus-item{width:auto;}.ast-footer-row-inline .footer-widget-area.widget-area.site-footer-focus-item{width:100%;}.elementor-widget-heading .elementor-heading-title{margin:0;}.elementor-page .ast-menu-toggle{color:unset !important;background:unset !important;}.elementor-post.elementor-grid-item.hentry{margin-bottom:0;}.woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product,.elementor-element .elementor-wc-products .woocommerce[class*='columns-'] ul.products li.product{width:auto;margin:0;float:none;}.elementor-toc__list-wrapper{margin:0;}body .elementor hr{background-color:#ccc;margin:0;}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{max-width:100%;left:0 !important;}.elementor-posts-container [CLASS*="ast-width-"]{width:100%;}.elementor-template-full-width .ast-container{display:block;}.elementor-screen-only,.screen-reader-text,.screen-reader-text span,.ui-helper-hidden-accessible{top:0 !important;}@media (max-width:544px){.elementor-element .elementor-wc-products .woocommerce[class*="columns-"] ul.products li.product{width:auto;margin:0;}.elementor-element .woocommerce .woocommerce-result-count{float:none;}}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-header-break-point .main-navigation ul .menu-item .menu-link .icon-arrow:first-of-type svg{top:.2em;margin-top:0px;margin-left:0px;width:.65em;transform:translate(0, -2px) rotateZ(270deg);}.ast-mobile-popup-content .ast-submenu-expanded > .ast-menu-toggle{transform:rotateX(180deg);overflow-y:auto;}@media (min-width:922px){.ast-builder-menu .main-navigation > ul > li:last-child a{margin-right:0;}}.ast-separate-container .ast-article-inner{background-color:transparent;background-image:none;}.ast-separate-container .ast-article-post{background-color:var(--ast-global-color-5);background-image:none;}@media (max-width:921px){.ast-separate-container .ast-article-post{background-color:var(--ast-global-color-5);background-image:none;}}@media (max-width:544px){.ast-separate-container .ast-article-post{background-color:var(--ast-global-color-5);background-image:none;}}.ast-separate-container .ast-article-single:not(.ast-related-post), .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container  .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content, .ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description, .ast-separate-container .comments-area .comment-respond, .ast-separate-container .comments-area .ast-comment-list li, .ast-separate-container .comments-area .comments-title{background-color:var(--ast-global-color-5);background-image:none;}@media (max-width:921px){.ast-separate-container .ast-article-single:not(.ast-related-post), .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container  .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content, .ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description{background-color:var(--ast-global-color-5);background-image:none;}}@media (max-width:544px){.ast-separate-container .ast-article-single:not(.ast-related-post), .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container  .ast-author-meta, .ast-separate-container .related-posts-title-wrapper, .ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content, .ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description{background-color:var(--ast-global-color-5);background-image:none;}}.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);background-image:none;}@media (max-width:921px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);background-image:none;}}@media (max-width:544px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);background-image:none;}}.ast-mobile-header-content > *,.ast-desktop-header-content > * {padding: 10px 0;height: auto;}.ast-mobile-header-content > *:first-child,.ast-desktop-header-content > *:first-child {padding-top: 10px;}.ast-mobile-header-content > .ast-builder-menu,.ast-desktop-header-content > .ast-builder-menu {padding-top: 0;}.ast-mobile-header-content > *:last-child,.ast-desktop-header-content > *:last-child {padding-bottom: 0;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search label,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label {width: 100%;}.ast-desktop-header-content .main-header-bar-navigation .ast-submenu-expanded > .ast-menu-toggle::before {transform: rotateX(180deg);}#ast-desktop-header .ast-desktop-header-content,.ast-mobile-header-content .ast-search-icon,.ast-desktop-header-content .ast-search-icon,.ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content {display: none;}.ast-main-header-nav-open.ast-header-break-point #ast-desktop-header .ast-desktop-header-content,.ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content {display: block;}.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item .menu-item > .sub-menu {opacity: 1;visibility: visible;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation {width: unset;margin: unset;}.ast-mobile-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle,.ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle {left: calc( 20px - 0.907em);right: auto;}.ast-mobile-header-content .ast-search-menu-icon,.ast-mobile-header-content .ast-search-menu-icon.slide-search,.ast-desktop-header-content .ast-search-menu-icon,.ast-desktop-header-content .ast-search-menu-icon.slide-search {width: 100%;position: relative;display: block;right: auto;transform: none;}.ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form,.ast-mobile-header-content .ast-search-menu-icon .search-form,.ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,.ast-desktop-header-content .ast-search-menu-icon .search-form {right: 0;visibility: visible;opacity: 1;position: relative;top: auto;transform: none;padding: 0;display: block;overflow: hidden;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-mobile-header-content .ast-search-menu-icon .search-field,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-desktop-header-content .ast-search-menu-icon .search-field {width: 100%;padding-right: 5.5em;}.ast-mobile-header-content .ast-search-menu-icon .search-submit,.ast-desktop-header-content .ast-search-menu-icon .search-submit {display: block;position: absolute;height: 100%;top: 0;right: 0;padding: 0 1em;border-radius: 0;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub-menu .menu-link {padding-left: 30px;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link {padding-left: 40px;}.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{background-color:#ffffff;;}.ast-mobile-header-wrap .ast-mobile-header-content, .ast-desktop-header-content{background-color:#ffffff;;}.ast-mobile-popup-content > *, .ast-mobile-header-content > *, .ast-desktop-popup-content > *, .ast-desktop-header-content > *{padding-top:0px;padding-bottom:0px;}.content-align-flex-start .ast-builder-layout-element{justify-content:flex-start;}.content-align-flex-start .main-header-menu{text-align:left;}.ast-mobile-popup-drawer.active .menu-toggle-close{color:#3a3a3a;}.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:70px;}.ast-desktop .ast-primary-header-bar .main-header-menu > .menu-item{line-height:70px;}.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-primary-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-below-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-above-header-bar{padding-left:20px;padding-right:20px;}.ast-header-break-point .ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:var( --ast-global-color-subtle-background,--ast-global-color-7 );border-bottom-style:solid;}@media (min-width:922px){.ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:var( --ast-global-color-subtle-background,--ast-global-color-7 );border-bottom-style:solid;}}.ast-primary-header-bar{background-color:var( --ast-global-color-primary,--ast-global-color-4 );}.ast-primary-header-bar{display:block;}@media (max-width:921px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal{color:#202a5e;border:none;background:transparent;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{width:20px;height:20px;fill:#202a5e;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-wrap .mobile-menu{color:#202a5e;}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}.ast-hfb-header .ast-builder-menu-mobile .main-header-menu, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .menu-link, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link{border-style:none;}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}@media (max-width:921px){.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}}@media (max-width:544px){.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}}.ast-builder-menu-mobile .main-navigation{display:block;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}:root{--e-global-color-astglobalcolor0:#0170B9;--e-global-color-astglobalcolor1:#3a3a3a;--e-global-color-astglobalcolor2:#3a3a3a;--e-global-color-astglobalcolor3:#4B4F58;--e-global-color-astglobalcolor4:#F5F5F5;--e-global-color-astglobalcolor5:#FFFFFF;--e-global-color-astglobalcolor6:#E5E5E5;--e-global-color-astglobalcolor7:#424242;--e-global-color-astglobalcolor8:#000000;}
+/*# sourceURL=astra-theme-css-inline-css */
+</style>
+<link rel='stylesheet' id='astra-google-fonts-css' href='https://fonts.googleapis.com/css?family=Jost%3A400%2C100%2C200%2C300%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2Ci%2C500i%2C600i%2C700i%2C800i%2C900i%7CJosefin+Sans%3A400%2C100%2C200%2C300%2C500%2C600%2C700%2C100i%2C200i%2C300i%2Ci%2C500i%2C600i%2C700i&#038;display=fallback&#038;ver=4.11.17' media='all' />
+<link rel='stylesheet' id='bdt-uikit-css' href='https://musicville.in/wp-content/plugins/bdthemes-element-pack-lite/assets/css/bdt-uikit.css?ver=3.13.1' media='all' />
+<link rel='stylesheet' id='ep-helper-css' href='https://musicville.in/wp-content/plugins/bdthemes-element-pack-lite/assets/css/ep-helper.css?ver=5.0.1' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--ast-global-color-0: var(--ast-global-color-0);--wp--preset--color--ast-global-color-1: var(--ast-global-color-1);--wp--preset--color--ast-global-color-2: var(--ast-global-color-2);--wp--preset--color--ast-global-color-3: var(--ast-global-color-3);--wp--preset--color--ast-global-color-4: var(--ast-global-color-4);--wp--preset--color--ast-global-color-5: var(--ast-global-color-5);--wp--preset--color--ast-global-color-6: var(--ast-global-color-6);--wp--preset--color--ast-global-color-7: var(--ast-global-color-7);--wp--preset--color--ast-global-color-8: var(--ast-global-color-8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: var(--wp--custom--ast-content-width-size);--wp--style--global--wide-size: var(--wp--custom--ast-wide-width-size); }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-color{color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-color{color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-color{color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-color{color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-color{color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-color{color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-color{color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-color{color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-color{color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-background-color{background-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-background-color{background-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-background-color{background-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-background-color{background-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-background-color{background-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-background-color{background-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-background-color{background-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-background-color{background-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-background-color{background-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-border-color{border-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-border-color{border-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-border-color{border-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-border-color{border-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-border-color{border-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-border-color{border-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-border-color{border-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-border-color{border-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-border-color{border-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://musicville.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' media='all' />
+<link rel='stylesheet' id='astra-contact-form-7-css' href='https://musicville.in/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7-main.min.css?ver=4.11.17' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://musicville.in/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min.css?ver=4.11.17' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://musicville.in/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min.css?ver=4.11.17' media='only screen and (max-width: 921px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://musicville.in/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.11.17' media='all' />
+<style id='woocommerce-general-inline-css'>
+
+					.woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count {
+						float: left;
+					}
+
+					.woocommerce .woocommerce-ordering {
+						float: right;
+						margin-bottom: 2.5em;
+					}
+				
+					.woocommerce-js a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit {
+						font-size: 100%;
+						line-height: 1;
+						text-decoration: none;
+						overflow: visible;
+						padding: 0.5em 0.75em;
+						font-weight: 700;
+						border-radius: 3px;
+						color: $secondarytext;
+						background-color: $secondary;
+						border: 0;
+					}
+					.woocommerce-js a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit:hover {
+						background-color: #dad8da;
+						background-image: none;
+						color: #515151;
+					}
+				#customer_details h3:not(.elementor-widget-woocommerce-checkout-page h3){font-size:1.2rem;padding:20px 0 14px;margin:0 0 20px;border-bottom:1px solid var(--ast-border-color);font-weight:700;}form #order_review_heading:not(.elementor-widget-woocommerce-checkout-page #order_review_heading){border-width:2px 2px 0 2px;border-style:solid;font-size:1.2rem;margin:0;padding:1.5em 1.5em 1em;border-color:var(--ast-border-color);font-weight:700;}.woocommerce-Address h3, .cart-collaterals h2{font-size:1.2rem;padding:.7em 1em;}.woocommerce-cart .cart-collaterals .cart_totals>h2{font-weight:700;}form #order_review:not(.elementor-widget-woocommerce-checkout-page #order_review){padding:0 2em;border-width:0 2px 2px;border-style:solid;border-color:var(--ast-border-color);}ul#shipping_method li:not(.elementor-widget-woocommerce-cart #shipping_method li){margin:0;padding:0.25em 0 0.25em 22px;text-indent:-22px;list-style:none outside;}.woocommerce span.onsale, .wc-block-grid__product .wc-block-grid__product-onsale{background-color:#202a5e;color:#ffffff;}.woocommerce-message, .woocommerce-info{border-top-color:#e2524a;}.woocommerce-message::before,.woocommerce-info::before{color:#e2524a;}.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price, .widget_layered_nav_filters ul li.chosen a, .woocommerce-page ul.products li.product .ast-woo-product-category, .wc-layered-nav-rating a{color:#4d506d;}.woocommerce nav.woocommerce-pagination ul,.woocommerce nav.woocommerce-pagination ul li{border-color:#e2524a;}.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current{background:#e2524a;color:var(--ast-global-color-5);}.woocommerce-MyAccount-navigation-link.is-active a{color:#3c446f;}.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle{background-color:#e2524a;}.woocommerce .star-rating, .woocommerce .comment-form-rating .stars a, .woocommerce .star-rating::before{color:var(--ast-global-color-3);}.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before,  .woocommerce div.ast-product-tabs-layout-vertical .woocommerce-tabs ul.tabs li:hover::before{background:#e2524a;}.woocommerce .woocommerce-cart-form button[name="update_cart"]:disabled{color:var(--ast-global-color-5);}.woocommerce #content table.cart .button[name="apply_coupon"], .woocommerce-page #content table.cart .button[name="apply_coupon"]{padding:10px 40px;}.woocommerce table.cart td.actions .button, .woocommerce #content table.cart td.actions .button, .woocommerce-page table.cart td.actions .button, .woocommerce-page #content table.cart td.actions .button{line-height:1;border-width:1px;border-style:solid;}.woocommerce ul.products li.product .button, .woocommerce-page ul.products li.product .button{line-height:1.3;}.woocommerce-js a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce-js a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce input.button,.woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled], .woocommerce input.button:disabled:hover, .woocommerce input.button:disabled[disabled]:hover, .woocommerce #respond input#submit, .woocommerce button.button.alt.disabled, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link, .wc-block-grid__product-onsale{color:var(--ast-global-color-5);border-color:#e4532b;background-color:#e4532b;}.woocommerce-js a.button:hover, .woocommerce button.button:hover, .woocommerce .woocommerce-message a.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #respond input#submit.alt:hover, .woocommerce-js a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce input.button:hover, .woocommerce button.button.alt.disabled:hover, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover{color:var(--ast-global-color-5);border-color:#a42380;background-color:#a42380;}.woocommerce-js a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce-js a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce input.button,.woocommerce-cart table.cart td.actions .button, .woocommerce form.checkout_coupon .button, .woocommerce #respond input#submit, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.woocommerce ul.products li.product a, .woocommerce-js a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit:hover{text-decoration:none;}.woocommerce[class*="rel-up-columns-"] .site-main div.product .related.products ul.products li.product, .woocommerce-page .site-main ul.products li.product{width:100%;}.woocommerce .up-sells h2, .woocommerce .related.products h2, .woocommerce .woocommerce-tabs h2{font-size:1.5rem;}.woocommerce h2, .woocommerce-account h2{font-size:1.625rem;}.woocommerce ul.product-categories > li ul li{position:relative;}.woocommerce ul.product-categories > li ul li:before{content:"";border-width:1px 1px 0 0;border-style:solid;display:inline-block;width:6px;height:6px;position:absolute;top:50%;margin-top:-2px;-webkit-transform:rotate(45deg);transform:rotate(45deg);}.woocommerce ul.product-categories > li ul li a{margin-left:15px;}.ast-icon-shopping-cart svg{height:.82em;}.ast-icon-shopping-bag svg{height:1em;width:1em;}.ast-icon-shopping-basket svg{height:1.15em;width:1.2em;}.ast-site-header-cart.ast-menu-cart-outline .ast-addon-cart-wrap, .ast-site-header-cart.ast-menu-cart-fill .ast-addon-cart-wrap {line-height:1;}.ast-site-header-cart.ast-menu-cart-fill i.astra-icon{ font-size:1.1em;}li.woocommerce-custom-menu-item .ast-site-header-cart i.astra-icon:after{ padding-left:2px;}.ast-hfb-header .ast-addon-cart-wrap{ padding:0.4em;}.ast-header-break-point.ast-header-custom-item-outside .ast-woo-header-cart-info-wrap{ display:none;}.ast-site-header-cart i.astra-icon:after{ background:#202a5e;}@media (min-width:545px) and (max-width:921px){.woocommerce.tablet-columns-3 ul.products li.product, .woocommerce-page.tablet-columns-3 ul.products:not(.elementor-grid){grid-template-columns:repeat(3, minmax(0, 1fr));}}@media (min-width:922px){.woocommerce form.checkout_coupon{width:50%;}}@media (max-width:921px){.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-1.ast-mobile-header-stack.ast-no-menu-items .ast-site-header-cart, .ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-3.ast-mobile-header-stack.ast-no-menu-items .ast-site-header-cart{padding-right:0;padding-left:0;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-1.ast-mobile-header-stack .main-header-bar{text-align:center;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-1.ast-mobile-header-stack .ast-site-header-cart, .ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-1.ast-mobile-header-stack .ast-mobile-menu-buttons{display:inline-block;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-2.ast-mobile-header-inline .site-branding{flex:auto;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-3.ast-mobile-header-stack .site-branding{flex:0 0 100%;}.ast-header-break-point.ast-woocommerce-cart-menu .header-main-layout-3.ast-mobile-header-stack .main-header-container{display:flex;justify-content:center;}.woocommerce-cart .woocommerce-shipping-calculator .button{width:100%;}.woocommerce div.product div.images, .woocommerce div.product div.summary, .woocommerce #content div.product div.images, .woocommerce #content div.product div.summary, .woocommerce-page div.product div.images, .woocommerce-page div.product div.summary, .woocommerce-page #content div.product div.images, .woocommerce-page #content div.product div.summary{float:none;width:100%;}.woocommerce-cart table.cart td.actions .ast-return-to-shop{display:block;text-align:center;margin-top:1em;}.ast-container .woocommerce ul.products:not(.elementor-grid), .woocommerce-page ul.products:not(.elementor-grid), .woocommerce.tablet-columns-3 ul.products:not(.elementor-grid){grid-template-columns:repeat(3, minmax(0, 1fr));}}@media (max-width:544px){.ast-separate-container .ast-woocommerce-container{padding:.54em 1em 1.33333em;}.woocommerce-message, .woocommerce-error, .woocommerce-info{display:flex;flex-wrap:wrap;}.woocommerce-message a.button, .woocommerce-error a.button, .woocommerce-info a.button{order:1;margin-top:.5em;}.woocommerce .woocommerce-ordering, .woocommerce-page .woocommerce-ordering{float:none;margin-bottom:2em;}.woocommerce table.cart td.actions .button, .woocommerce #content table.cart td.actions .button, .woocommerce-page table.cart td.actions .button, .woocommerce-page #content table.cart td.actions .button{padding-left:1em;padding-right:1em;}.woocommerce #content table.cart .button, .woocommerce-page #content table.cart .button{width:100%;}.woocommerce #content table.cart td.actions .coupon, .woocommerce-page #content table.cart td.actions .coupon{float:none;}.woocommerce #content table.cart td.actions .coupon .button, .woocommerce-page #content table.cart td.actions .coupon .button{flex:1;}.woocommerce #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a{display:block;}.woocommerce ul.products a.button, .woocommerce-page ul.products a.button{padding:0.5em 0.75em;}.ast-container .woocommerce ul.products:not(.elementor-grid), .woocommerce-page ul.products:not(.elementor-grid), .woocommerce.mobile-columns-2 ul.products:not(.elementor-grid), .woocommerce-page.mobile-columns-2 ul.products:not(.elementor-grid){grid-template-columns:repeat(2, minmax(0, 1fr));}.woocommerce.mobile-rel-up-columns-2 ul.products::not(.elementor-grid){grid-template-columns:repeat(2, minmax(0, 1fr));}}@media (max-width:544px){.woocommerce ul.products a.button.loading::after, .woocommerce-page ul.products a.button.loading::after{display:inline-block;margin-left:5px;position:initial;}.woocommerce.mobile-columns-1 .site-main ul.products li.product:nth-child(n), .woocommerce-page.mobile-columns-1 .site-main ul.products li.product:nth-child(n){margin-right:0;}.woocommerce #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li{display:block;margin-right:0;}}@media (min-width:922px){.woocommerce #content .ast-woocommerce-container div.product div.images, .woocommerce .ast-woocommerce-container div.product div.images, .woocommerce-page #content .ast-woocommerce-container div.product div.images, .woocommerce-page .ast-woocommerce-container div.product div.images{width:50%;}.woocommerce #content .ast-woocommerce-container div.product div.summary, .woocommerce .ast-woocommerce-container div.product div.summary, .woocommerce-page #content .ast-woocommerce-container div.product div.summary, .woocommerce-page .ast-woocommerce-container div.product div.summary{width:46%;}.woocommerce.woocommerce-checkout form #customer_details.col2-set .col-1, .woocommerce.woocommerce-checkout form #customer_details.col2-set .col-2, .woocommerce-page.woocommerce-checkout form #customer_details.col2-set .col-1, .woocommerce-page.woocommerce-checkout form #customer_details.col2-set .col-2{float:none;width:auto;}}.woocommerce-js a.button , .woocommerce button.button.alt ,.woocommerce-page table.cart td.actions .button, .woocommerce-page #content table.cart td.actions .button , .woocommerce-js a.button.alt ,.woocommerce .woocommerce-message a.button , .ast-site-header-cart .widget_shopping_cart .buttons .button.checkout, .woocommerce button.button.alt.disabled , .wc-block-grid__products .wc-block-grid__product .wp-block-button__link {border:solid;border-top-width:0px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-color:#e4532b;}.woocommerce-js a.button:hover , .woocommerce button.button.alt:hover , .woocommerce-page table.cart td.actions .button:hover, .woocommerce-page #content table.cart td.actions .button:hover, .woocommerce-js a.button.alt:hover ,.woocommerce .woocommerce-message a.button:hover , .ast-site-header-cart .widget_shopping_cart .buttons .button.checkout:hover , .woocommerce button.button.alt.disabled:hover , .wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover{border-color:#a42380;}.widget_product_search button{flex:0 0 auto;padding:10px 20px;}@media (min-width:922px){.woocommerce.woocommerce-checkout form #customer_details.col2-set, .woocommerce-page.woocommerce-checkout form #customer_details.col2-set{width:55%;float:left;margin-right:4.347826087%;}.woocommerce.woocommerce-checkout form #order_review, .woocommerce.woocommerce-checkout form #order_review_heading, .woocommerce-page.woocommerce-checkout form #order_review, .woocommerce-page.woocommerce-checkout form #order_review_heading{width:40%;float:right;margin-right:0;clear:right;}}select, .select2-container .select2-selection--single{background-image:url("data:image/svg+xml,%3Csvg class='ast-arrow-svg' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' x='0px' y='0px' width='26px' height='16.043px' fill='%234B4F58' viewBox='57 35.171 26 16.043' enable-background='new 57 35.171 26 16.043' xml:space='preserve' %3E%3Cpath d='M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z'%3E%3C/path%3E%3C/svg%3E");background-size:.8em;background-repeat:no-repeat;background-position-x:calc( 100% - 10px );background-position-y:center;-webkit-appearance:none;-moz-appearance:none;padding-right:2em;}
+					.woocommerce-js .quantity {
+						display: inline-flex;
+					}
+
+					/* Quantity Plus Minus Button - Placeholder for CLS. */
+					.woocommerce .quantity .ast-qty-placeholder {
+						cursor: not-allowed;
+					}
+
+					.woocommerce-js .quantity + .button.single_add_to_cart_button {
+						margin-left: unset;
+					}
+
+					.woocommerce-js .quantity .qty {
+						width: 2.631em;
+						margin-left: 38px;
+					}
+
+					.woocommerce-js .quantity .minus,
+					.woocommerce-js .quantity .plus {
+						width: 38px;
+						display: flex;
+						justify-content: center;
+						background-color: transparent;
+						border: 1px solid var(--ast-border-color);
+						color: var(--ast-global-color-3);
+						align-items: center;
+						outline: 0;
+						font-weight: 400;
+						z-index: 3;
+						position: relative;
+					}
+
+					.woocommerce-js .quantity .minus {
+						border-right-width: 0;
+						margin-right: -38px;
+					}
+
+					.woocommerce-js .quantity .plus {
+						border-left-width: 0;
+						margin-right: 6px;
+					}
+
+					.woocommerce-js input[type=number] {
+						max-width: 58px;
+						min-height: 36px;
+					}
+
+					.woocommerce-js input[type=number].qty::-webkit-inner-spin-button, .woocommerce input[type=number].qty::-webkit-outer-spin-button {
+						-webkit-appearance: none;
+					}
+
+					.woocommerce-js input[type=number].qty {
+						-webkit-appearance: none;
+						-moz-appearance: textfield;
+					}
+
+				
+						.woocommerce ul.products li.product.desktop-align-left, .woocommerce-page ul.products li.product.desktop-align-left {
+							text-align: left;
+						}
+						.woocommerce ul.products li.product.desktop-align-left .star-rating,
+						.woocommerce ul.products li.product.desktop-align-left .button,
+						.woocommerce-page ul.products li.product.desktop-align-left .star-rating,
+						.woocommerce-page ul.products li.product.desktop-align-left .button {
+							margin-left: 0;
+							margin-right: 0;
+						}
+					@media(max-width: 921px){
+						.woocommerce ul.products li.product.tablet-align-left, .woocommerce-page ul.products li.product.tablet-align-left {
+							text-align: left;
+						}
+						.woocommerce ul.products li.product.tablet-align-left .star-rating,
+						.woocommerce ul.products li.product.tablet-align-left .button,
+						.woocommerce-page ul.products li.product.tablet-align-left .star-rating,
+						.woocommerce-page ul.products li.product.tablet-align-left .button {
+							margin-left: 0;
+							margin-right: 0;
+						}
+					}@media(max-width: 544px){
+						.woocommerce ul.products li.product.mobile-align-left, .woocommerce-page ul.products li.product.mobile-align-left {
+							text-align: left;
+						}
+						.woocommerce ul.products li.product.mobile-align-left .star-rating,
+						.woocommerce ul.products li.product.mobile-align-left .button,
+						.woocommerce-page ul.products li.product.mobile-align-left .star-rating,
+						.woocommerce-page ul.products li.product.mobile-align-left .button {
+							margin-left: 0;
+							margin-right: 0;
+						}
+					}.ast-woo-active-filter-widget .wc-block-active-filters{display:flex;align-items:self-start;justify-content:space-between;}.ast-woo-active-filter-widget .wc-block-active-filters__clear-all{flex:none;margin-top:2px;}.woocommerce.woocommerce-checkout .elementor-widget-woocommerce-checkout-page #customer_details.col2-set, .woocommerce-page.woocommerce-checkout .elementor-widget-woocommerce-checkout-page #customer_details.col2-set{width:100%;}.woocommerce.woocommerce-checkout .elementor-widget-woocommerce-checkout-page #order_review, .woocommerce.woocommerce-checkout .elementor-widget-woocommerce-checkout-page #order_review_heading, .woocommerce-page.woocommerce-checkout .elementor-widget-woocommerce-checkout-page #order_review, .woocommerce-page.woocommerce-checkout .elementor-widget-woocommerce-checkout-page #order_review_heading{width:100%;float:inherit;}.elementor-widget-woocommerce-checkout-page .select2-container .select2-selection--single, .elementor-widget-woocommerce-cart .select2-container .select2-selection--single{padding:0;}.elementor-widget-woocommerce-checkout-page .woocommerce form .woocommerce-additional-fields, .elementor-widget-woocommerce-checkout-page .woocommerce form .shipping_address, .elementor-widget-woocommerce-my-account .woocommerce-MyAccount-navigation-link, .elementor-widget-woocommerce-cart .woocommerce a.remove{border:none;}.elementor-widget-woocommerce-cart .cart-collaterals .cart_totals > h2{background-color:inherit;border-bottom:0px;margin:0px;}.elementor-widget-woocommerce-cart .cart-collaterals .cart_totals{padding:0;border-color:inherit;border-radius:0;margin-bottom:0px;border-width:0px;}.elementor-widget-woocommerce-cart .woocommerce-cart-form .e-apply-coupon{line-height:initial;}.elementor-widget-woocommerce-my-account .woocommerce-MyAccount-content .woocommerce-Address-title h3{margin-bottom:var(--myaccount-section-title-spacing, 0px);}.elementor-widget-woocommerce-my-account .woocommerce-Addresses .woocommerce-Address-title, .elementor-widget-woocommerce-my-account table.shop_table thead, .elementor-widget-woocommerce-my-account .woocommerce-page table.shop_table thead, .elementor-widget-woocommerce-cart table.shop_table thead{background:inherit;}.elementor-widget-woocommerce-cart .e-apply-coupon, .elementor-widget-woocommerce-cart #coupon_code, .elementor-widget-woocommerce-checkout-page .e-apply-coupon, .elementor-widget-woocommerce-checkout-page #coupon_code{height:100%;}.elementor-widget-woocommerce-cart td.product-name dl.variation dt{font-weight:inherit;}.elementor-element.elementor-widget-woocommerce-checkout-page .e-checkout__container #customer_details .col-1{margin-bottom:0;}
+/*# sourceURL=woocommerce-general-inline-css */
+</style>
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-post-2989-css' href='https://musicville.in/wp-content/uploads/elementor/css/post-2989.css?ver=1765296125' media='all' />
+<link rel='stylesheet' id='alg-wc-wish-list-css' href='https://musicville.in/wp-content/plugins/wish-list-for-woocommerce/assets/css/alg-wc-wish-list.min.css?ver=251209-111053' media='all' />
+<link rel='stylesheet' id='alg-font-awesome-css' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='alg-wc-wish-list-izitoast-css' href='https://musicville.in/wp-content/plugins/wish-list-for-woocommerce/assets/vendor/izitoast/css/iziToast.min.css?ver=251209-111053' media='all' />
+<link rel='stylesheet' id='woo-variation-gallery-slider-css' href='https://musicville.in/wp-content/plugins/woo-variation-gallery/assets/css/slick.min.css?ver=1.8.1' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://musicville.in/wp-includes/css/dashicons.min.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='woo-variation-gallery-css' href='https://musicville.in/wp-content/plugins/woo-variation-gallery/assets/css/frontend.min.css?ver=1743442323' media='all' />
+<style id='woo-variation-gallery-inline-css'>
+:root {--wvg-thumbnail-item: 4;--wvg-thumbnail-item-gap: 0px;--wvg-single-image-size: 600px;--wvg-gallery-width: 50%;--wvg-gallery-margin: 30px;}/* Default Width */.woo-variation-product-gallery {max-width: 50% !important;width: 100%;}/* Medium Devices, Desktops *//* Small Devices, Tablets */@media only screen and (max-width: 768px) {.woo-variation-product-gallery {width: 720px;max-width: 100% !important;}}/* Extra Small Devices, Phones */@media only screen and (max-width: 480px) {.woo-variation-product-gallery {width: 320px;max-width: 100% !important;}}
+/*# sourceURL=woo-variation-gallery-inline-css */
+</style>
+<link rel='stylesheet' id='font-awesome-css' href='https://musicville.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' media='all' />
+<link rel='stylesheet' id='simple-line-icons-wl-css' href='https://musicville.in/wp-content/plugins/woolentor-addons/assets/css/simple-line-icons.css?ver=3.2.9' media='all' />
+<link rel='stylesheet' id='htflexboxgrid-css' href='https://musicville.in/wp-content/plugins/woolentor-addons/assets/css/htflexboxgrid.css?ver=3.2.9' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://musicville.in/wp-content/plugins/woolentor-addons/assets/css/slick.css?ver=3.2.9' media='all' />
+<link rel='stylesheet' id='woolentor-widgets-css' href='https://musicville.in/wp-content/plugins/woolentor-addons/assets/css/woolentor-widgets.css?ver=3.2.9' media='all' />
+<link rel='stylesheet' id='photoswipe-css' href='https://musicville.in/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=10.3.6' media='all' />
+<link rel='stylesheet' id='photoswipe-default-skin-css' href='https://musicville.in/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=10.3.6' media='all' />
+<link rel='stylesheet' id='woolentor-quickview-css' href='https://musicville.in/wp-content/plugins/woolentor-addons/includes/modules/quickview/assets/css/frontend.css?ver=3.2.9' media='all' />
+<link rel='stylesheet' id='brands-styles-css' href='https://musicville.in/wp-content/plugins/woocommerce/assets/css/brands.css?ver=10.3.6' media='all' />
+<link rel='stylesheet' id='pwb-styles-frontend-css' href='https://musicville.in/wp-content/plugins/perfect-woocommerce-brands/build/frontend/css/style.css?ver=3.6.7' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://musicville.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.44.0' media='all' />
+<link rel='stylesheet' id='elementor-post-3346-css' href='https://musicville.in/wp-content/uploads/elementor/css/post-3346.css?ver=1765278825' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://musicville.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://musicville.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://musicville.in/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='https://musicville.in/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://musicville.in/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.7.7' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://musicville.in/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.7.7' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://musicville.in/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='wpr-text-animations-css-css' href='https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.7.1041' media='all' />
+<link rel='stylesheet' id='wpr-addons-css-css' href='https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.7.1041' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://musicville.in/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1743442464' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://musicville.in/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1743442470' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://musicville.in/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.7.7' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://musicville.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://musicville.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p role="alert">Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<script src="https://musicville.in/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.11.17" id="astra-flexibility-js"></script>
+<script id="astra-flexibility-js-after">
+flexibility(document.documentElement);
+//# sourceURL=astra-flexibility-js-after
+</script>
+<script data-cfasync="false" src="https://musicville.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script data-cfasync="false" src="https://musicville.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.3.6" id="wc-jquery-blockui-js" data-wp-strategy="defer"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https://musicville.in/cart/","is_cart":"","cart_redirect_after_add":"no"};
+//# sourceURL=wc-add-to-cart-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.3.6" id="wc-add-to-cart-js" defer data-wp-strategy="defer"></script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.3.6" id="wc-js-cookie-js" defer data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
+//# sourceURL=woocommerce-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.3.6" id="woocommerce-js" defer data-wp-strategy="defer"></script>
+<script src="https://musicville.in/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"/wp-admin/admin-ajax.php"}};
+//# sourceURL=wp-util-js-extra
+</script>
+<script src="https://musicville.in/wp-includes/js/wp-util.min.js?ver=6.9" id="wp-util-js"></script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.10.3.6" id="wc-photoswipe-js" data-wp-strategy="defer"></script>
+<script src="https://musicville.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.33.4" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="https://musicville.in/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://musicville.in/wp-json/wp/v2/pages/2989" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://musicville.in/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<meta name="generator" content="WooCommerce 10.3.6" />
+<link rel="canonical" href="https://musicville.in/stores/" />
+<link rel='shortlink' href='https://musicville.in/?p=2989' />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.33.4; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://musicville.in/wp-content/uploads/2023/01/cropped-63dc0265-4ecd-4b44-aa7d-4048603889c7-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://musicville.in/wp-content/uploads/2023/01/cropped-63dc0265-4ecd-4b44-aa7d-4048603889c7-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://musicville.in/wp-content/uploads/2023/01/cropped-63dc0265-4ecd-4b44-aa7d-4048603889c7-180x180.png" />
+<meta name="msapplication-TileImage" content="https://musicville.in/wp-content/uploads/2023/01/cropped-63dc0265-4ecd-4b44-aa7d-4048603889c7-270x270.png" />
+		<style id="wp-custom-css">
+			.tax-pwb-brand .ekit-template-content-header{background-color: #FBFBFB;
+    background-image: url(https://musicville.in/wp-content/uploads/2022/12/WallFon.com_3228.jpg);
+    background-position: center center;
+    background-size: cover;}		</style>
+		<style id="wpr_lightbox_styles">
+				.lg-backdrop {
+					background-color: rgba(0,0,0,0.6) !important;
+				}
+				.lg-toolbar,
+				.lg-dropdown {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-dropdown:after {
+					border-bottom-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-sub-html {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-thumb-outer,
+				.lg-progress-bar {
+					background-color: #444444 !important;
+				}
+				.lg-progress {
+					background-color: #a90707 !important;
+				}
+				.lg-icon {
+					color: #efefef !important;
+					font-size: 20px !important;
+				}
+				.lg-icon.lg-toogle-thumb {
+					font-size: 24px !important;
+				}
+				.lg-icon:hover,
+				.lg-dropdown-text:hover {
+					color: #ffffff !important;
+				}
+				.lg-sub-html,
+				.lg-dropdown-text {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				#lg-counter {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				.lg-prev,
+				.lg-next {
+					font-size: 35px !important;
+				}
+
+				/* Defaults */
+				.lg-icon {
+				background-color: transparent !important;
+				}
+
+				#lg-counter {
+				opacity: 0.9;
+				}
+
+				.lg-thumb-outer {
+				padding: 0 10px;
+				}
+
+				.lg-thumb-item {
+				border-radius: 0 !important;
+				border: none !important;
+				opacity: 0.5;
+				}
+
+				.lg-thumb-item.active {
+					opacity: 1;
+				}
+	         </style>    </head>
+
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-2989 wp-custom-logo wp-embed-responsive wp-theme-astra theme-astra woocommerce-no-js eio-default woo-variation-gallery woo-variation-gallery-theme-astra woolentor_current_theme_astra ast-desktop ast-page-builder-template ast-no-sidebar astra-4.11.17 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header woolentor-empty-cart elementor-page-5270 elementor-default elementor-template-full-width elementor-kit-3346 elementor-page elementor-page-2989">
+
+		<div data-elementor-type="wp-page" data-elementor-id="2989" class="elementor elementor-2989" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-76a1b091 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="76a1b091" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1d17f81f" data-id="1d17f81f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4a21f960 elementor-widget elementor-widget-heading" data-id="4a21f960" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">stores</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-118d0e2a elementor-widget elementor-widget-woocommerce-breadcrumb" data-id="118d0e2a" data-element_type="widget" data-widget_type="woocommerce-breadcrumb.default">
+				<div class="elementor-widget-container">
+					<nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a href="https://musicville.in">Home</a>&nbsp;&#47;&nbsp;Stores</nav>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6b039fc1 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="6b039fc1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3fbc0ffb" data-id="3fbc0ffb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-164391f elementor-widget elementor-widget-icon-box" data-id="164391f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							MUSIC VILLE PVT LTD RAIPUR						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Plot No. 265, Meera Datar Road, Gayatri Mandir Road, Samta Colony, Raipur 492001<br>
+Mob No. +91-93990 24163<br>
+GSTIN/UIN: 22AAICM2895E1ZH<br>
+State Name : Chhattisgarh, Code : 22<br>
+E-Mail : anant@musicville.in					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-12c78045" data-id="12c78045" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a1c1630 elementor-widget elementor-widget-icon-box" data-id="a1c1630" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							MUSIC VILLE PVT LTD LUCKNOW						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Shop No C-1, First Floor, R Square C/P 1/5, Vipul Khand, Gomti Nagar Lucknow(Up)<br>Mob No. +91-95195 50975<br>
+GSTIN/UIN: 09AAICM2895E1Z5<br>
+State Name : Uttar Pradesh, Code : 09<br>
+E-Mail : Imran@musicville.in					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9ee9c73 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="9ee9c73" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3d50acd" data-id="3d50acd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-464829c elementor-widget elementor-widget-icon-box" data-id="464829c" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							MUSIC VILLE PVT LTD RANCHI						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Office No-103,1st Floor, Baijnath Sundari Bhawan, Katatoli Chowk, Ranchi, Jharkhand-834001<br>
+Mob No- +91-93436 93813<br>
+GSTIN/UIN: 20AAICM2895E1ZL<br>
+State Name : Jharkhand, Code : 20<br>
+E-Mail : neeraj@musicville.in					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fa3c1ff" data-id="fa3c1ff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-61c882b elementor-widget elementor-widget-icon-box" data-id="61c882b" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							MUSIC VILLE PVT LTD PATNA						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Anand Vihar Colony Suchit Singh Path, Bhootnath Road, Near New Bypass, Post Bahadurpur Housing Colony, Patna- 800026<br>
+Mob No. +91-95841 35604<br>
+GSTIN/UIN: 10AAICM2895E1ZM<br>
+State Name : Bihar, Code : 10<br>
+E-Mail : ajeet@musicville.in					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-50c23f3 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="50c23f3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5c88812" data-id="5c88812" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1a92182 elementor-widget elementor-widget-icon-box" data-id="1a92182" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Music Ville Pvt Ltd Bargarh						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						Shop No1 Infront Of Tripath Tour And Travels, Ward No 12 Mohanty Para, Bargarh-768028<br>
+Mob No- +91-95841 35602<br>
+GSTIN/UIN : 21AAICM2895E1ZJ<br>
+State Name : Odisha, Code : 21<br> E-Mail : bijay@musicville.in       					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-132322a" data-id="132322a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2b08744 elementor-widget elementor-widget-icon-box" data-id="2b08744" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							MUSIC VILLE PVT LTD DEHRADUN						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						115, Guru Road, Patel Nagar<br> 
+Mob No. +91-95195 50972<br>
+GSTIN/UIN: 05AAICM2895E1ZD<br>
+State Name : Uttarakhand, Code : 05<br>
+E-Mail : rohit@musicville.in            					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f9ba00d elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="f9ba00d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-59b9221" data-id="59b9221" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-261be10 elementor-widget elementor-widget-icon-box" data-id="261be10" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+			
+						<div class="elementor-icon-box-content">
+
+									<h3 class="elementor-icon-box-title">
+						<span  >
+							Yamaha Music Square, Raipur						</span>
+					</h3>
+				
+									<p class="elementor-icon-box-description">
+						1st floor, Ambika Tower, Opp RBL Bank, Beside Rishabh complex, M.G. Road, Raipur (C.G.) 492001<br>
+Mob No- +91-96442 85551<br>
+GSTIN/UIN : 21AAICM2895E1ZJ<br>
+E-Mail ranjeet@musicville.in  					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f3c842" data-id="6f3c842" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				</div>
+			</div> <!-- ast-container -->
+	</div><!-- #content -->
+<footer
+class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+			<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
+								<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
+				<div class="ast-footer-copyright"><p>Copyright &copy; 2026 MusicVille | Powered by <a href="https://wpastra.com" rel="nofollow noopener" target="_blank">Astra WordPress Theme</a></p>
+</div>			</div>
+						</div>
+										</div>
+			</div>
+
+</div>
+	</footer><!-- #colophon -->
+<div class="ekit-template-content-markup ekit-template-content-footer"><style>.elementor-3431 .elementor-element.elementor-element-88002d3:not(.elementor-motion-effects-element-type-background), .elementor-3431 .elementor-element.elementor-element-88002d3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(114deg, #171A3D 0%, #37457A 100%);}.elementor-3431 .elementor-element.elementor-element-88002d3{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:50px 0px 50px 0px;}.elementor-3431 .elementor-element.elementor-element-88002d3 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3431 .elementor-element.elementor-element-e0176d2 > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-3431 .elementor-element.elementor-element-e0176d2 .elementor-heading-title{font-weight:700;text-transform:uppercase;letter-spacing:0.3px;color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-8652c16 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-block-end:calc(10px/2);}.elementor-3431 .elementor-element.elementor-element-8652c16 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-block-start:calc(10px/2);}.elementor-3431 .elementor-element.elementor-element-8652c16 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-inline:calc(10px/2);}.elementor-3431 .elementor-element.elementor-element-8652c16 .elementor-icon-list-items.elementor-inline-items{margin-inline:calc(-10px/2);}.elementor-3431 .elementor-element.elementor-element-8652c16 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{inset-inline-end:calc(-10px/2);}.elementor-3431 .elementor-element.elementor-element-8652c16 .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-3431 .elementor-element.elementor-element-8652c16 .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-3431 .elementor-element.elementor-element-8652c16{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-3431 .elementor-element.elementor-element-8652c16 .elementor-icon-list-text{color:#E3E3E7;transition:color 0.3s;}.elementor-3431 .elementor-element.elementor-element-8652c16 .elementor-icon-list-item:hover .elementor-icon-list-text{color:#E4532B;}.elementor-3431 .elementor-element.elementor-element-be43926 > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-3431 .elementor-element.elementor-element-be43926 .elementor-heading-title{font-weight:700;text-transform:uppercase;letter-spacing:0.3px;color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-a221c4e > .elementor-widget-container{margin:0px 0px -8px 0px;}.elementor-3431 .elementor-element.elementor-element-a221c4e .elementor-icon-box-wrapper{align-items:start;}.elementor-3431 .elementor-element.elementor-element-a221c4e{--icon-box-icon-margin:10px;}.elementor-3431 .elementor-element.elementor-element-a221c4e .elementor-icon-box-title{margin-block-end:0px;color:#E3E3E7;}.elementor-3431 .elementor-element.elementor-element-a221c4e.elementor-view-stacked .elementor-icon{background-color:#E3E3E7;}.elementor-3431 .elementor-element.elementor-element-a221c4e.elementor-view-framed .elementor-icon, .elementor-3431 .elementor-element.elementor-element-a221c4e.elementor-view-default .elementor-icon{fill:#E3E3E7;color:#E3E3E7;border-color:#E3E3E7;}.elementor-3431 .elementor-element.elementor-element-a221c4e .elementor-icon{font-size:20px;}.elementor-3431 .elementor-element.elementor-element-a221c4e .elementor-icon-box-description{font-size:14px;color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-cd79f02 > .elementor-widget-container{margin:-8px 0px -8px 0px;}.elementor-3431 .elementor-element.elementor-element-cd79f02 .elementor-icon-box-wrapper{align-items:start;}.elementor-3431 .elementor-element.elementor-element-cd79f02{--icon-box-icon-margin:10px;}.elementor-3431 .elementor-element.elementor-element-cd79f02 .elementor-icon-box-title{margin-block-end:0px;color:#E3E3E7;}.elementor-3431 .elementor-element.elementor-element-cd79f02.elementor-view-stacked .elementor-icon{background-color:#E3E3E7;}.elementor-3431 .elementor-element.elementor-element-cd79f02.elementor-view-framed .elementor-icon, .elementor-3431 .elementor-element.elementor-element-cd79f02.elementor-view-default .elementor-icon{fill:#E3E3E7;color:#E3E3E7;border-color:#E3E3E7;}.elementor-3431 .elementor-element.elementor-element-cd79f02 .elementor-icon{font-size:20px;}.elementor-3431 .elementor-element.elementor-element-cd79f02 .elementor-icon-box-description{font-size:14px;color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-68c161d > .elementor-widget-container{margin:-8px 0px -8px 0px;}.elementor-3431 .elementor-element.elementor-element-68c161d .elementor-icon-box-wrapper{align-items:start;}.elementor-3431 .elementor-element.elementor-element-68c161d{--icon-box-icon-margin:10px;}.elementor-3431 .elementor-element.elementor-element-68c161d .elementor-icon-box-title{margin-block-end:0px;color:#E3E3E7;}.elementor-3431 .elementor-element.elementor-element-68c161d.elementor-view-stacked .elementor-icon{background-color:#E3E3E7;}.elementor-3431 .elementor-element.elementor-element-68c161d.elementor-view-framed .elementor-icon, .elementor-3431 .elementor-element.elementor-element-68c161d.elementor-view-default .elementor-icon{fill:#E3E3E7;color:#E3E3E7;border-color:#E3E3E7;}.elementor-3431 .elementor-element.elementor-element-68c161d .elementor-icon{font-size:20px;}.elementor-3431 .elementor-element.elementor-element-68c161d .elementor-icon-box-description{font-size:14px;color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-11980eb{--grid-template-columns:repeat(0, auto);--icon-size:22px;--grid-column-gap:15px;--grid-row-gap:0px;}.elementor-3431 .elementor-element.elementor-element-11980eb .elementor-widget-container{text-align:left;}.elementor-3431 .elementor-element.elementor-element-11980eb .elementor-social-icon{background-color:#424C77;}.elementor-3431 .elementor-element.elementor-element-11980eb .elementor-social-icon i{color:#C6C8D4;}.elementor-3431 .elementor-element.elementor-element-11980eb .elementor-social-icon svg{fill:#C6C8D4;}.elementor-3431 .elementor-element.elementor-element-91b06f8 > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-3431 .elementor-element.elementor-element-91b06f8 .elementor-heading-title{font-weight:700;text-transform:uppercase;letter-spacing:0.3px;color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-block-end:calc(10px/2);}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-block-start:calc(10px/2);}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-inline:calc(10px/2);}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-items.elementor-inline-items{margin-inline:calc(-10px/2);}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{inset-inline-end:calc(-10px/2);}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-3431 .elementor-element.elementor-element-abb7fd0{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-item > a{text-transform:capitalize;}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-text{color:#E3E3E7;transition:color 0.3s;}.elementor-3431 .elementor-element.elementor-element-abb7fd0 .elementor-icon-list-item:hover .elementor-icon-list-text{color:#E4532B;}.elementor-3431 .elementor-element.elementor-element-1387fcf > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-3431 .elementor-element.elementor-element-1387fcf .elementor-heading-title{font-weight:700;text-transform:uppercase;letter-spacing:0.3px;color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-field-group{padding-right:calc( 0px/2 );padding-left:calc( 0px/2 );margin-bottom:10px;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-form-fields-wrapper{margin-left:calc( -0px/2 );margin-right:calc( -0px/2 );margin-bottom:-10px;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-field-group.recaptcha_v3-bottomleft, .elementor-3431 .elementor-element.elementor-element-513576f .elementor-field-group.recaptcha_v3-bottomright{margin-bottom:0;}body.rtl .elementor-3431 .elementor-element.elementor-element-513576f .elementor-labels-inline .elementor-field-group > label{padding-left:0px;}body:not(.rtl) .elementor-3431 .elementor-element.elementor-element-513576f .elementor-labels-inline .elementor-field-group > label{padding-right:0px;}body .elementor-3431 .elementor-element.elementor-element-513576f .elementor-labels-above .elementor-field-group > label{padding-bottom:0px;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-field-type-html{padding-bottom:0px;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-field-group .elementor-field{color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-field-group .elementor-field:not(.elementor-select-wrapper){background-color:#373D61;border-width:0px 0px 0px 0px;border-radius:0px 0px 0px 0px;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-field-group .elementor-select-wrapper select{background-color:#373D61;border-width:0px 0px 0px 0px;border-radius:0px 0px 0px 0px;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-button{text-transform:uppercase;letter-spacing:0.6px;}.elementor-3431 .elementor-element.elementor-element-513576f .e-form__buttons__wrapper__button-next{background-color:#E4532B;color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-button[type="submit"]{background-color:#E4532B;color:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-button[type="submit"] svg *{fill:#FFFFFF;}.elementor-3431 .elementor-element.elementor-element-513576f .e-form__buttons__wrapper__button-previous{color:#ffffff;}.elementor-3431 .elementor-element.elementor-element-513576f .e-form__buttons__wrapper__button-next:hover{color:#ffffff;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-button[type="submit"]:hover{color:#ffffff;}.elementor-3431 .elementor-element.elementor-element-513576f .elementor-button[type="submit"]:hover svg *{fill:#ffffff;}.elementor-3431 .elementor-element.elementor-element-513576f .e-form__buttons__wrapper__button-previous:hover{color:#ffffff;}.elementor-3431 .elementor-element.elementor-element-513576f{--e-form-steps-indicators-spacing:20px;--e-form-steps-indicator-padding:30px;--e-form-steps-indicator-inactive-secondary-color:#ffffff;--e-form-steps-indicator-active-secondary-color:#ffffff;--e-form-steps-indicator-completed-secondary-color:#ffffff;--e-form-steps-divider-width:1px;--e-form-steps-divider-gap:10px;}.elementor-3431 .elementor-element.elementor-element-44e97b9 .elementor-heading-title{line-height:1.5em;color:#FFFFFF;}@media(max-width:767px){.elementor-3431 .elementor-element.elementor-element-e0176d2{text-align:center;}.elementor-3431 .elementor-element.elementor-element-8652c16 > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-3431 .elementor-element.elementor-element-be43926{text-align:center;}.elementor-3431 .elementor-element.elementor-element-a221c4e{--icon-box-icon-margin:0px;}.elementor-3431 .elementor-element.elementor-element-cd79f02{--icon-box-icon-margin:0px;}.elementor-3431 .elementor-element.elementor-element-68c161d{--icon-box-icon-margin:0px;}.elementor-3431 .elementor-element.elementor-element-11980eb .elementor-widget-container{text-align:center;}.elementor-3431 .elementor-element.elementor-element-11980eb > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-3431 .elementor-element.elementor-element-91b06f8{text-align:center;}.elementor-3431 .elementor-element.elementor-element-abb7fd0 > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-3431 .elementor-element.elementor-element-1387fcf{text-align:center;}.elementor-3431 .elementor-element.elementor-element-44e97b9{text-align:center;}}</style>		<div data-elementor-type="wp-post" data-elementor-id="3431" class="elementor elementor-3431" data-elementor-post-type="elementskit_template">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-88002d3 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="88002d3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-540e4b0" data-id="540e4b0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e0176d2 elementor-widget elementor-widget-heading" data-id="e0176d2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">navigation</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8652c16 elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8652c16" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/my-account/orders/">
+
+											<span class="elementor-icon-list-text">Track Order</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/cancelation/">
+
+											<span class="elementor-icon-list-text">Cancelation</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/faqs/">
+
+											<span class="elementor-icon-list-text">Faq's</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/privacy-policy/">
+
+											<span class="elementor-icon-list-text">Privacy Policy</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/terms-condition/">
+
+											<span class="elementor-icon-list-text">Terms &amp; Condition</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-76430db" data-id="76430db" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-be43926 elementor-widget elementor-widget-heading" data-id="be43926" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">contacts</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a221c4e elementor-position-left elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="a221c4e" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<i aria-hidden="true" class="icon icon-phone-handset"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						+91-9399024165					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-cd79f02 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="cd79f02" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<i aria-hidden="true" class="icon icon-envelope1"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						info@musicville.in					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-68c161d elementor-position-left elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="68c161d" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon">
+				<i aria-hidden="true" class="icon icon-map-marker1"></i>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						Plot No 265 Near Ashoka Public School Back Side of Gayatri Mand Samta Colony 492001 Raipur					</p>
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-11980eb elementor-shape-square e-grid-align-left e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="11980eb" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-5be5448" href="https://www.facebook.com/musicvilleindia/" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i aria-hidden="true" class="fab fa-facebook-f"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-a8a3c7c" href="https://twitter.com/MusicVille_in" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i aria-hidden="true" class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-icon-instagram-1 elementor-repeater-item-5d673d5" href="https://www.instagram.com/musicvilleindia/" target="_blank">
+						<span class="elementor-screen-only">Icon-instagram-1</span>
+						<i aria-hidden="true" class="icon icon-instagram-1"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-f11b2d8" href="https://www.youtube.com/@StudioMVMusicVille" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i aria-hidden="true" class="fab fa-youtube"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-066b256" data-id="066b256" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-91b06f8 elementor-widget elementor-widget-heading" data-id="91b06f8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Useful links</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-abb7fd0 elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="abb7fd0" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/my-account/">
+
+											<span class="elementor-icon-list-text">My account</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/my-account/orders/">
+
+											<span class="elementor-icon-list-text">Order history</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/my-account/my-wish-list/">
+
+											<span class="elementor-icon-list-text">Wishlist</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/cart/">
+
+											<span class="elementor-icon-list-text">Cart</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/contact-us/">
+
+											<span class="elementor-icon-list-text">Contact Us</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f8cd9cf" data-id="f8cd9cf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1387fcf elementor-widget elementor-widget-heading" data-id="1387fcf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">follow us</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-513576f elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="513576f" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;30&quot;,&quot;button_width_mobile&quot;:&quot;30&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+							<form class="elementor-form" method="post" name="New Form" aria-label="New Form">
+			<input type="hidden" name="post_id" value="3431"/>
+			<input type="hidden" name="form_id" value="513576f"/>
+			<input type="hidden" name="referer_title" value="Behringer EUROLIVE B212XL 800W 12 inch Passive Speaker &#8211; Each" />
+
+							<input type="hidden" name="queried_id" value="5323"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-70 elementor-sm-70 elementor-field-required">
+													<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
+											</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-30 e-form__buttons elementor-sm-30">
+					<button class="elementor-button elementor-size-sm" type="submit">
+						<span class="elementor-button-content-wrapper">
+																						<span class="elementor-button-text">Send</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-44e97b9 elementor-widget elementor-widget-heading" data-id="44e97b9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">Copyright © 2023 All Rights Reserved. <a style="opacity: 0" rel="dofollow" href="https://propello.in/">.</a><a style="opacity: 0" rel="dofollow" href="https://e-went.com/">.</a><a style="opacity: 0" rel="dofollow" href="https://parcommstore.com/">.</a></p>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6522fef elementor-widget elementor-widget-image" data-id="6522fef" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="728" height="82" src="https://musicville.in/wp-content/uploads/2022/12/payments.png" class="attachment-full size-full wp-image-3502" alt="" srcset="https://musicville.in/wp-content/uploads/2022/12/payments.png 728w, https://musicville.in/wp-content/uploads/2022/12/payments-300x34.png 300w, https://musicville.in/wp-content/uploads/2022/12/payments-600x68.png 600w" sizes="(max-width: 728px) 100vw, 728px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</div>	</div><!-- #page -->
+			<script>
+				jQuery( document ).ready( function ( $ ) {
+					let data = {"max_width":"768","max_height":"400","evaluation_method":"max_width_or_max_height"};
+					let isMobile = false;
+					$( window ).on( "load resize scroll", function () {
+						if ( data.evaluation_method == 'max_width_or_max_height' ) {
+							isMobile = $( window ).width() < data.max_width || $( window ).height() < data.max_height ? true : false;
+						} else if ( data.evaluation_method == 'max_width_and_max_height' ) {
+							isMobile = $( window ).width() < data.max_width && $( window ).height() < data.max_height ? true : false;
+						}
+						isMobile ? $( 'body' ).addClass( 'alg-wc-wl-responsive' ) : $( 'body' ).removeClass( 'alg-wc-wl-responsive' );
+					} );
+				} );
+			</script>
+			<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/astra/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<script type="text/html" id="tmpl-woo-variation-gallery-slider-template">
+	    <div class="wvg-gallery-image">
+        <div>
+            <# if( data.srcset ){ #>
+            <div class="wvg-single-gallery-image-container">
+                <img loading="lazy" class="{{data.class}}" width="{{data.src_w}}" height="{{data.src_h}}" src="{{data.src}}" alt="{{data.alt}}" title="{{data.title}}" data-caption="{{data.caption}}" data-src="{{data.full_src}}" data-large_image="{{data.full_src}}" data-large_image_width="{{data.full_src_w}}" data-large_image_height="{{data.full_src_h}}" srcset="{{data.srcset}}" sizes="{{data.sizes}}" {{data.extra_params}}/>
+            </div>
+            <# } #>
+
+            <# if( !data.srcset ){ #>
+            <div class="wvg-single-gallery-image-container">
+                <img loading="lazy" class="{{data.class}}" width="{{data.src_w}}" height="{{data.src_h}}" src="{{data.src}}" alt="{{data.alt}}" title="{{data.title}}" data-caption="{{data.caption}}" data-src="{{data.full_src}}" data-large_image="{{data.full_src}}" data-large_image_width="{{data.full_src_w}}" data-large_image_height="{{data.full_src_h}}" sizes="{{data.sizes}}" {{data.extra_params}}/>
+            </div>
+            <# } #>
+        </div>
+    </div>
+	</script>
+
+<script type="text/html" id="tmpl-woo-variation-gallery-thumbnail-template">
+	<div class="wvg-gallery-thumbnail-image">
+		<div>
+			<img class="{{data.gallery_thumbnail_class}}" width="{{data.gallery_thumbnail_src_w}}" height="{{data.gallery_thumbnail_src_h}}" src="{{data.gallery_thumbnail_src}}" alt="{{data.alt}}" title="{{data.title}}" />
+		</div>
+	</div>
+</script><div class="woolentor-quickview-modal" id="woolentor-quickview-modal" style="position: fixed; top:0; left:0; visibility: hidden; opacity: 0; z-index: -9;">
+	<div class="woolentor-quickview-overlay"></div>
+	<div class="woolentor-quickview-modal-wrapper">
+		<div class="woolentor-quickview-modal-content">
+			<span class="woolentor-quickview-modal-close">&#10005;</span>
+			<div class="woolentor-quickview-modal-body"></div>
+		</div>
+	</div>
+</div><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/musicville.in"}},{"@type":"ListItem","position":2,"item":{"name":"Stores","@id":"https:\/\/musicville.in\/stores\/"}}]}</script>			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+				<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wc-blocks-style-css' href='https://musicville.in/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.3.6' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://musicville.in/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='e-sticky-css' href='https://musicville.in/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.32.1' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://musicville.in/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://musicville.in/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.33.4' media='all' />
+<link rel='stylesheet' id='widget-form-css' href='https://musicville.in/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.32.1' media='all' />
+<script id="astra-theme-js-js-extra">
+var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"","is_scroll_to_top":"","is_header_footer_builder_active":"1","responsive_cart_click":"flyout","is_dark_palette":""};
+//# sourceURL=astra-theme-js-js-extra
+</script>
+<script src="https://musicville.in/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.11.17" id="astra-theme-js-js"></script>
+<script id="astra-add-to-cart-quantity-btn-js-extra">
+var astra_qty_btn = {"plus_qty":"Plus Quantity","minus_qty":"Minus Quantity","style_type":"normal"};
+//# sourceURL=astra-add-to-cart-quantity-btn-js-extra
+</script>
+<script src="https://musicville.in/wp-content/themes/astra/assets/js/minified/add-to-cart-quantity-btn.min.js?ver=4.11.17" id="astra-add-to-cart-quantity-btn-js"></script>
+<script src="https://musicville.in/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="https://musicville.in/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script src="https://musicville.in/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.4" id="swv-js"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/musicville.in\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script src="https://musicville.in/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4" id="contact-form-7-js"></script>
+<script src="https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6" id="wpr-particles-js"></script>
+<script src="https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7" id="wpr-jarallax-js"></script>
+<script src="https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0" id="wpr-parallax-hover-js"></script>
+<script src="https://musicville.in/wp-content/plugins/wish-list-for-woocommerce/assets/vendor/izitoast/js/iziToast.min.js?ver=251209-111053" id="alg-wc-wish-list-izitoast-js"></script>
+<script id="alg-wc-wish-list-js-extra">
+var alg_wc_wl = {"ajaxurl":"/wp-admin/admin-ajax.php","fa_icons":{"copy":"fas fa-copy"},"error_text":"Sorry, Some error occurred. Please, try again later.","all_removed_text":"All the items have been removed from your wishlist."};
+var alg_wc_wl_toggle_btn = {"btn_class":".alg-wc-wl-btn","btn_data_action":"alg-wc-wl-toggle","btn_icon_class":"fas fa-heart","btn_icon_class_added":"fas fa-heart"};
+var alg_wc_wl_ajax = {"action_remove_all":"alg_wc_wl_remove_all_from_wish_list","action_toggle_item":"alg_wc_wl_toggle_item","action_get_multiple_wishlist":"alg_wc_wl_get_multiple_wish_list","action_save_multiple_wishlist":"alg_wc_wl_save_multiple_wish_list","action_delete_multiple_wishlist":"alg_wc_wl_delete_multiple_wish_list","is_multiple_wishlist_enabled":"no","is_current_page_wishlist":"no","allow_unlogged_user_add_remove":"yes","is_account_page":"no","action_save_wishlist":"alg_wc_wl_save_to_multiple_wish_list","action_duplicate_wishlist":"alg_wc_wl_save_duplicate_wish_list","ajax_action":"alg_wc_wl_get_wish_list","nonce":"d947740079","toggle_nonce":"233a61c27c","toggle_item_events":{"default":["mouseup","touchend"],"touchscreen":["mouseup","touchend"]}};
+var alg_wc_wl_pro_get_wl_shortcode = {"ajax_action":"alg_wc_wl_pro_get_wish_list_sc"};
+var alg_wc_wl_notification = {"desktop":"1","mobile":"1","ok_button":"1","copied_message":"Wishlist URL copied to clipboard"};
+var alg_wc_wl_ajax = {"action_remove_all":"alg_wc_wl_remove_all_from_wish_list","action_toggle_item":"alg_wc_wl_toggle_item","action_get_multiple_wishlist":"alg_wc_wl_get_multiple_wish_list","action_save_multiple_wishlist":"alg_wc_wl_save_multiple_wish_list","action_delete_multiple_wishlist":"alg_wc_wl_delete_multiple_wish_list","is_multiple_wishlist_enabled":"no","is_current_page_wishlist":"no","allow_unlogged_user_add_remove":"yes","is_account_page":"no","action_save_wishlist":"alg_wc_wl_save_to_multiple_wish_list","action_duplicate_wishlist":"alg_wc_wl_save_duplicate_wish_list","ajax_action":"alg_wc_wl_get_wish_list","nonce":"d947740079","toggle_nonce":"233a61c27c","toggle_item_events":{"default":["mouseup","touchend"],"touchscreen":["mouseup","touchend"]}};
+var alg_wc_wl_pro_get_wl_shortcode = {"ajax_action":"alg_wc_wl_pro_get_wish_list_sc"};
+//# sourceURL=alg-wc-wish-list-js-extra
+</script>
+<script id="alg-wc-wish-list-js-before">
+const ALG_WC_WISHLIST_JS_OBJ = {"plugin_url":"https:\/\/musicville.in\/wp-content\/plugins\/wish-list-for-woocommerce"}
+//# sourceURL=alg-wc-wish-list-js-before
+</script>
+<script src="https://musicville.in/wp-content/plugins/wish-list-for-woocommerce/assets/js/frontend.min.js?ver=251209-111053" id="alg-wc-wish-list-js"></script>
+<script src="https://musicville.in/wp-content/plugins/woo-variation-gallery/assets/js/slick.min.js?ver=1.8.1" id="woo-variation-gallery-slider-js"></script>
+<script src="https://musicville.in/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script id="wc-add-to-cart-variation-js-extra">
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination.","i18n_reset_alert_text":"Your selection has been reset. Please select some product options before adding this product to your cart."};
+//# sourceURL=wc-add-to-cart-variation-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=10.3.6" id="wc-add-to-cart-variation-js" data-wp-strategy="defer"></script>
+<script id="woo-variation-gallery-js-extra">
+var woo_variation_gallery_options = {"gallery_reset_on_variation_change":"","enable_gallery_zoom":"1","enable_gallery_lightbox":"1","enable_gallery_preload":"1","preloader_disable":"","enable_thumbnail_slide":"1","gallery_thumbnails_columns":"4","is_vertical":"","thumbnail_position":"bottom","thumbnail_position_class_prefix":"woo-variation-gallery-thumbnail-position-","is_mobile":"","gallery_default_device_width":"50","gallery_medium_device_width":"0","gallery_small_device_width":"720","gallery_extra_small_device_width":"320"};
+//# sourceURL=woo-variation-gallery-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/woo-variation-gallery/assets/js/frontend.min.js?ver=1743442323" id="woo-variation-gallery-js"></script>
+<script src="https://musicville.in/wp-content/plugins/woolentor-addons/assets/js/slick.min.js?ver=3.2.9" id="slick-js"></script>
+<script id="wc-single-product-js-extra">
+var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","i18n_rating_options":["1 of 5 stars","2 of 5 stars","3 of 5 stars","4 of 5 stars","5 of 5 stars"],"i18n_product_gallery_trigger_text":"View full-screen image gallery","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":true,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+//# sourceURL=wc-single-product-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=10.3.6" id="wc-single-product-js" data-wp-strategy="defer"></script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.10.3.6" id="wc-zoom-js" data-wp-strategy="defer"></script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.10.3.6" id="wc-flexslider-js" data-wp-strategy="defer"></script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.10.3.6" id="wc-photoswipe-ui-default-js" data-wp-strategy="defer"></script>
+<script id="woolentor-quickview-js-extra">
+var woolentorQuickView = {"ajaxUrl":"https://musicville.in/wp-admin/admin-ajax.php","ajaxNonce":"72e3f23ec3","optionData":{"enableAjaxCart":"on","thumbnailLayout":"slider","spinnerImageUrl":""}};
+//# sourceURL=woolentor-quickview-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/woolentor-addons/includes/modules/quickview/assets/js/frontend.js?ver=3.2.9" id="woolentor-quickview-js"></script>
+<script src="https://musicville.in/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.7.7" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">
+		var elementskit = {
+			resturl: 'https://musicville.in/wp-json/elementskit/v1/',
+		}
+
+		
+//# sourceURL=elementskit-framework-js-frontend-js-after
+</script>
+<script src="https://musicville.in/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.7.7" id="ekit-widget-scripts-js"></script>
+<script id="pwb-functions-frontend-js-extra">
+var pwb_ajax_object = {"carousel_prev":"\u003C","carousel_next":"\u003E"};
+//# sourceURL=pwb-functions-frontend-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/perfect-woocommerce-brands/build/frontend/js/index.js?ver=25bf59070626bf26de92" id="pwb-functions-frontend-js"></script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.3.6" id="sourcebuster-js-js"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https://musicville.in/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.3.6" id="wc-order-attribution-js"></script>
+<script src="https://musicville.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.33.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://musicville.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.4" id="elementor-frontend-modules-js"></script>
+<script src="https://musicville.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.33.4","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"theme_builder_v2":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/musicville.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/musicville.in\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/musicville.in\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"87205b8d97"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":2989,"title":"Stores%20%E2%80%93%20MusicVille","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script src="https://musicville.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.4" id="elementor-frontend-js"></script>
+<script src="https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/js/lib/perfect-scrollbar/perfect-scrollbar.min.js?ver=0.4.9" id="wpr-perfect-scroll-js-js"></script>
+<script src="https://musicville.in/wp-content/plugins/woolentor-addons/assets/lib/js/magnific-popup.js?ver=3.2.9" id="magnific-popup-js"></script>
+<script src="https://musicville.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.32.1" id="e-sticky-js"></script>
+<script src="https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/js/lib/perfect-scrollbar/perfect-scrollbar.min.js?ver=0.4.9" id="wpr-popup-scroll-js-js"></script>
+<script id="bdt-uikit-js-extra">
+var element_pack_ajax_login_config = {"ajaxurl":"https://musicville.in/wp-admin/admin-ajax.php","language":"en","loadingmessage":"Sending user info, please wait...","unknownerror":"Unknown error, make sure access is correct!"};
+var ElementPackConfig = {"ajaxurl":"https://musicville.in/wp-admin/admin-ajax.php","nonce":"279a9fb733","data_table":{"language":{"lengthMenu":"Show _MENU_ Entries","info":"Showing _START_ to _END_ of _TOTAL_ entries","search":"Search :","paginate":{"previous":"Previous","next":"Next"}}},"contact_form":{"sending_msg":"Sending message please wait...","captcha_nd":"Invisible captcha not defined!","captcha_nr":"Could not get invisible captcha response!"},"mailchimp":{"subscribing":"Subscribing you please wait..."},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
+//# sourceURL=bdt-uikit-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/bdthemes-element-pack-lite/assets/js/bdt-uikit.min.js?ver=3.13.1" id="bdt-uikit-js"></script>
+<script src="https://musicville.in/wp-content/plugins/bdthemes-element-pack-lite/assets/js/common/helper.min.js?ver=5.0.1" id="element-pack-helper-js"></script>
+<script src="https://musicville.in/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.32.1" id="elementor-pro-webpack-runtime-js"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/musicville.in\/wp-admin\/admin-ajax.php","nonce":"bcd4c7cae3","urls":{"assets":"https:\/\/musicville.in\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/musicville.in\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/musicville.in\/cart\/","checkout_page_url":"https:\/\/musicville.in\/checkout\/","fragments_nonce":"de0814b73b"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/musicville.in\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script src="https://musicville.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.32.1" id="elementor-pro-frontend-js"></script>
+<script src="https://musicville.in/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.32.1" id="pro-elements-handlers-js"></script>
+<script src="https://musicville.in/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.7.7" id="animate-circle-js"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https://musicville.in/wp-admin/admin-ajax.php","nonce":"b62703ad27"};
+//# sourceURL=elementskit-elementor-js-extra
+</script>
+<script src="https://musicville.in/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.7.7" id="elementskit-elementor-js"></script>
+<script src="https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/js/lib/dompurify/dompurify.min.js?ver=3.0.6" id="dompurify-js"></script>
+<script id="wpr-addons-js-js-extra">
+var WprConfig = {"ajaxurl":"https://musicville.in/wp-admin/admin-ajax.php","resturl":"https://musicville.in/wp-json/wpraddons/v1","nonce":"743d465a72","addedToCartText":"was added to cart","viewCart":"View Cart","comparePageID":"","comparePageURL":"https://musicville.in/stores/","wishlistPageID":"","wishlistPageURL":"https://musicville.in/stores/","chooseQuantityText":"Please select the required number of items.","site_key":"","is_admin":"","input_empty":"Please fill out this field","select_empty":"Nothing selected","file_empty":"Please upload a file","recaptcha_error":"Recaptcha Error","woo_shop_ppp":"9","woo_shop_cat_ppp":"9","woo_shop_tag_ppp":"9","is_product_category":"","is_product_tag":""};
+//# sourceURL=wpr-addons-js-js-extra
+</script>
+<script data-cfasync="false" src="https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1041" id="wpr-addons-js-js"></script>
+<script src="https://musicville.in/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.7.1041" id="wpr-modal-popups-js-js"></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://musicville.in/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://musicville.in/wp-includes/js/wp-emoji-loader.min.js
+</script>
+			<script>
+				jQuery( 'body' ).on( 'alg_wc_wish_list_init', function ( event ) {
+					var $ = jQuery;
+					let alg_wc_wl_orig_wishlist_item_data = alg_wc_wl_get_toggle_wishlist_item_data;
+					let attributes = {};
+					let variationId = 0;
+					alg_wc_wl_get_toggle_wishlist_item_data = function ( clicked_btn ) {
+						let data = alg_wc_wl_orig_wishlist_item_data( clicked_btn );
+						if ( !jQuery.isEmptyObject( attributes ) ) {
+							data[ 'attributes' ] = attributes;
+							data.variation_id = variationId;
+						}
+						return data;
+					}
+					$( document ).on( 'found_variation', 'form.cart', function ( event, variation ) {
+						variationId = variation.variation_id;
+						for ( let attr_id in variation.attributes ) {
+							let variationInput = jQuery( '.variations *[name=' + attr_id + ']' );
+							let variationInputText = variationInput.find( ":selected" ).val();
+							attributes[ attr_id ] = variationInputText;
+						}
+					} );
+					$( document ).on( 'update_variation_values', 'form.cart', function ( event, variation ) {
+						variationId = 0;
+						attributes = {};
+					} );
+				} )
+			</script>
+				</body>
+</html>
